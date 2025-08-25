@@ -26,21 +26,6 @@ jobs:
         with:
           fetch-depth: 0  # Full history for proper release notes
       
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
-      
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install ttfautohint libcairo2-dev python3-cairo-dev pkg-config python3-dev
-      
-      - name: Install Python dependencies
-        run: |
-          python3 -m pip install --upgrade pip setuptools
-          python3 -m pip install gftools fontbakery
-      
       - name: Extract version from tag or input
         id: version
         run: |
