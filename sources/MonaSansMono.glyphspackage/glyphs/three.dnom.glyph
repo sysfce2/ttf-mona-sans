@@ -1,0 +1,248 @@
+{
+glyphname = three.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,-5,o),
+(429,40,o),
+(429,108,cs),
+(429,161,o),
+(400,196,o),
+(356,205,c),
+(356,208,l),
+(399,221,o),
+(427,255,o),
+(427,300,cs),
+(427,361,o),
+(380,402,o),
+(305,402,cs),
+(236,402,o),
+(183,361,o),
+(180,292,c),
+(211,292,l),
+(214,341,o),
+(251,374,o),
+(305,374,cs),
+(359,374,o),
+(395,346,o),
+(395,297,cs),
+(395,250,o),
+(360,218,o),
+(299,218,cs),
+(270,218,l),
+(270,193,l),
+(307,193,ls),
+(361,193,o),
+(396,165,o),
+(396,110,cs),
+(396,57,o),
+(357,23,o),
+(297,23,cs),
+(243,23,o),
+(205,56,o),
+(202,106,c),
+(171,106,l),
+(174,40,o),
+(224,-5,o),
+(297,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+34
+);
+stem = -2;
+target = (
+0,
+41
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+26
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+19
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+38
+);
+stem = -2;
+target = (
+0,
+37
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+27
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+15
+);
+stem = -2;
+target = (
+0,
+16
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+22
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,-5,o),
+(459,36,o),
+(459,111,cs),
+(459,148,o),
+(437,181,o),
+(397,193,c),
+(397,197,l),
+(428,209,o),
+(450,239,o),
+(450,273,cs),
+(450,340,o),
+(393,380,o),
+(310,380,cs),
+(217,380,o),
+(160,332,o),
+(157,256,c),
+(266,256,l),
+(268,278,o),
+(285,286,o),
+(305,286,cs),
+(327,286,o),
+(340,277,o),
+(340,260,cs),
+(340,242,o),
+(326,230,o),
+(303,230,cs),
+(260,230,l),
+(260,149,l),
+(307,149,ls),
+(332,149,o),
+(345,138,o),
+(345,120,cs),
+(345,101,o),
+(331,88,o),
+(306,88,cs),
+(283,88,o),
+(263,99,o),
+(264,120,c),
+(154,120,l),
+(157,45,o),
+(212,-5,o),
+(306,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 619;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = three;
+};
+};
+}

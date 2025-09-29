@@ -1,0 +1,55 @@
+{
+color = 6;
+glyphname = threequarters;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (618,0);
+ref = fraction;
+},
+{
+pos = (1236,0);
+ref = four.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = three.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = three.numr;
+};
+width = 1854;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (619,0);
+ref = fraction;
+},
+{
+pos = (1237,0);
+ref = four.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = three.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = three.numr;
+};
+width = 1855;
+}
+);
+unicode = 190;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

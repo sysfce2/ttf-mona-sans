@@ -1,0 +1,196 @@
+{
+glyphname = five.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(391,-5,o),
+(446,48,o),
+(446,127,cs),
+(446,203,o),
+(395,254,o),
+(320,254,cs),
+(277,254,o),
+(241,235,o),
+(224,208,c),
+(222,208,l),
+(234,368,l),
+(436,368,l),
+(436,397,l),
+(207,397,l),
+(191,176,l),
+(224,176,l),
+(237,205,o),
+(269,227,o),
+(313,227,cs),
+(373,227,o),
+(413,190,o),
+(413,126,cs),
+(413,66,o),
+(376,23,o),
+(311,23,cs),
+(258,23,o),
+(221,56,o),
+(218,104,c),
+(186,104,l),
+(189,39,o),
+(240,-5,o),
+(311,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+24
+);
+stem = -2;
+target = (
+0,
+31
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+18
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+10
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+21
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,-5,o),
+(462,48,o),
+(462,128,cs),
+(462,200,o),
+(413,246,o),
+(340,246,cs),
+(313,246,o),
+(286,238,o),
+(278,231,c),
+(274,233,l),
+(281,277,l),
+(451,277,l),
+(451,375,l),
+(182,375,l),
+(165,136,l),
+(272,136,l),
+(276,150,o),
+(292,158,o),
+(309,158,cs),
+(332,158,o),
+(348,144,o),
+(348,124,cs),
+(348,108,o),
+(333,90,o),
+(308,90,cs),
+(288,90,o),
+(273,98,o),
+(269,109,c),
+(156,109,l),
+(163,41,o),
+(216,-5,o),
+(306,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 618;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = five;
+};
+};
+}

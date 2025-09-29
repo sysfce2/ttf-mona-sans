@@ -1,0 +1,208 @@
+{
+glyphname = six.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(390,-4,o),
+(446,45,o),
+(446,125,cs),
+(446,199,o),
+(395,249,o),
+(321,249,cs),
+(261,249,o),
+(220,218,o),
+(208,174,c),
+(206,174,l),
+(208,294,o),
+(226,374,o),
+(319,374,cs),
+(370,374,o),
+(404,348,o),
+(411,304,c),
+(442,304,l),
+(436,363,o),
+(387,402,o),
+(319,402,cs),
+(223,402,o),
+(176,334,o),
+(176,172,cs),
+(176,61,o),
+(219,-4,o),
+(313,-4,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(254,24,o),
+(214,61,o),
+(214,121,cs),
+(214,178,o),
+(252,223,o),
+(315,223,cs),
+(373,223,o),
+(413,185,o),
+(413,125,cs),
+(413,64,o),
+(373,24,o),
+(314,24,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+11
+);
+stem = -2;
+target = (
+0,
+25
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+1,
+5
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+0,
+12
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+22
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,-5,o),
+(466,50,o),
+(466,129,cs),
+(466,199,o),
+(417,246,o),
+(344,246,cs),
+(307,246,o),
+(279,236,o),
+(263,221,c),
+(259,221,l),
+(258,265,o),
+(284,285,o),
+(316,285,cs),
+(334,285,o),
+(353,278,o),
+(357,267,c),
+(471,267,l),
+(461,335,o),
+(405,380,o),
+(317,380,cs),
+(210,380,o),
+(148,311,o),
+(148,186,cs),
+(148,49,o),
+(213,-5,o),
+(309,-5,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(287,93,o),
+(270,108,o),
+(270,129,cs),
+(270,150,o),
+(287,163,o),
+(312,163,cs),
+(337,163,o),
+(354,149,o),
+(354,128,cs),
+(354,107,o),
+(337,93,o),
+(312,93,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 618;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = six;
+};
+};
+}

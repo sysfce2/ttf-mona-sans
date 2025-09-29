@@ -1,0 +1,55 @@
+{
+color = 6;
+glyphname = oneeighth;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (618,0);
+ref = fraction;
+},
+{
+pos = (1236,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
+};
+width = 1855;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = one.numr;
+},
+{
+pos = (619,0);
+ref = fraction;
+},
+{
+pos = (1237,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
+};
+width = 1856;
+}
+);
+unicode = 8539;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,209 @@
+{
+glyphname = fiveinferior;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (317,174);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,-45,o),
+(458,13,o),
+(458,99,cs),
+(458,181,o),
+(404,237,o),
+(321,237,cs),
+(278,237,o),
+(237,219,o),
+(216,186,c),
+(214,187,l),
+(228,362,l),
+(448,362,l),
+(448,393,l),
+(198,393,l),
+(180,152,l),
+(217,152,l),
+(231,185,o),
+(268,208,o),
+(314,208,cs),
+(379,208,o),
+(423,167,o),
+(423,97,cs),
+(423,31,o),
+(382,-14,o),
+(312,-14,cs),
+(253,-14,o),
+(214,21,o),
+(210,74,c),
+(175,74,l),
+(178,7,o),
+(229,-45,o),
+(311,-45,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -25;
+width = 60;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+24
+);
+stem = -2;
+target = (
+0,
+31
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+18
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+10
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+21
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+}
+);
+};
+width = 619;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,174);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(411,-46,o),
+(480,16,o),
+(480,108,cs),
+(480,190,o),
+(427,244,o),
+(345,244,cs),
+(318,244,o),
+(287,235,o),
+(278,225,c),
+(272,227,l),
+(281,282,l),
+(469,282,l),
+(469,393,l),
+(168,393,l),
+(149,118,l),
+(270,118,l),
+(274,133,o),
+(290,144,o),
+(310,144,cs),
+(334,144,o),
+(352,127,o),
+(352,103,cs),
+(352,82,o),
+(335,62,o),
+(309,62,cs),
+(288,62,o),
+(272,71,o),
+(267,86,c),
+(139,86,l),
+(147,7,o),
+(206,-46,o),
+(306,-46,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -300;
+width = 60;
+};
+};
+width = 618;
+}
+);
+unicode = 8325;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+RMXScaler = {
+source = five;
+};
+};
+}

@@ -1,0 +1,139 @@
+{
+glyphname = fourinferior;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (310,174);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,-40,l),
+(392,393,l),
+(352,393,l),
+(145,103,l),
+(145,74,l),
+(475,74,l),
+(475,104,l),
+(182,104,l),
+(368,364,l),
+(358,367,l),
+(358,-40,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -25;
+width = 60;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+2
+);
+stem = -2;
+target = (
+0,
+8
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,174);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(438,-40,l),
+(438,393,l),
+(284,393,l),
+(120,141,l),
+(120,47,l),
+(500,47,l),
+(500,151,l),
+(245,151,l),
+(361,332,l),
+(311,346,l),
+(311,-40,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -300;
+width = 60;
+};
+};
+width = 619;
+}
+);
+unicode = 8324;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+RMXScaler = {
+source = four;
+};
+};
+}

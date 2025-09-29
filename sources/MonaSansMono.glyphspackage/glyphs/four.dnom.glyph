@@ -1,0 +1,127 @@
+{
+glyphname = four.dnom;
+kernLeft = four.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(386,0,l),
+(386,397,l),
+(349,397,l),
+(159,131,l),
+(159,105,l),
+(461,105,l),
+(461,132,l),
+(193,132,l),
+(363,371,l),
+(354,374,l),
+(354,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+2
+);
+stem = -2;
+target = (
+0,
+8
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,0,l),
+(424,375,l),
+(287,375,l),
+(139,158,l),
+(139,75,l),
+(480,75,l),
+(480,167,l),
+(249,167,l),
+(362,321,l),
+(311,338,l),
+(311,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 618;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = four;
+};
+};
+}

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = cdotaccent;
-kernLeft = e;
-kernRight = c;
+kernLeft = KO_e;
+kernRight = KO_c;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -15,7 +15,7 @@ pos = (96,-156);
 ref = dotaccentcomb;
 }
 );
-width = 313;
+width = 318;
 },
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -29,32 +29,6 @@ ref = dotaccentcomb;
 }
 );
 width = 439;
-},
-{
-layerId = master01;
-shapes = (
-{
-ref = c;
-},
-{
-pos = (222,-155);
-ref = dotaccentcomb;
-}
-);
-width = 553;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = c;
-},
-{
-pos = (166,-134);
-ref = dotaccentcomb;
-}
-);
-width = 586;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -81,6 +55,114 @@ ref = dotaccentcomb;
 }
 );
 width = 675;
+},
+{
+layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (97,-151);
+ref = dotaccentcomb;
+}
+);
+width = 288;
+},
+{
+layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (87,-137);
+ref = dotaccentcomb;
+}
+);
+width = 426;
+},
+{
+layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (222,-150);
+ref = dotaccentcomb;
+}
+);
+width = 523;
+},
+{
+layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (166,-134);
+ref = dotaccentcomb;
+}
+);
+width = 558;
+},
+{
+layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (244,-155);
+ref = dotaccentcomb;
+}
+);
+width = 606;
+},
+{
+layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (203,-129);
+ref = dotaccentcomb;
+}
+);
+width = 693;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (225,-133);
+ref = dotaccentcomb;
+}
+);
+width = 553;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (167,-120);
+ref = dotaccentcomb;
+}
+);
+width = 581;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

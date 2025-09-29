@@ -1,0 +1,115 @@
+{
+glyphname = one.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,0,l),
+(343,397,l),
+(311,397,l),
+(308,360,o),
+(290,333,o),
+(234,333,cs),
+(220,333,l),
+(220,309,l),
+(312,309,l),
+(312,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(401,0,l),
+(401,375,l),
+(295,375,l),
+(290,331,o),
+(249,306,o),
+(202,306,cs),
+(184,306,l),
+(184,220,l),
+(288,220,l),
+(288,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 619;
+}
+);
+userData = {
+KernOnName = one.dnom;
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = one;
+};
+};
+}
