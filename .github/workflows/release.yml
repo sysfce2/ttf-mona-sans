@@ -72,7 +72,7 @@ jobs:
           
           # Create complete package with all formats
           zip -r "release-artifacts/mona-sans-complete-v${{ steps.version.outputs.version }}.zip" \
-            fonts/ -x "fonts/googlefonts/*" \
+            fonts/ -x "fonts/googlefonts/*" -x "fonts/googlefonts/**" \
             OFL.txt README.md
       
       - name: Create release notes
