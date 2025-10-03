@@ -1,8 +1,8 @@
 {
 color = 7;
 glyphname = Q;
-kernLeft = KO_O;
-kernRight = KO_Q;
+kernLeft = O;
+kernRight = Q;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -33,63 +33,7 @@ ref = _tail.Q;
 width = 432;
 },
 {
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (379,0);
-ref = _tail.Q;
-}
-);
-width = 863;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (365,0);
-ref = _tail.Q;
-}
-);
-width = 916;
-},
-{
-layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (162,0);
-ref = _tail.Q;
-}
-);
-width = 392;
-},
-{
-layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (166,0);
-ref = _tail.Q;
-}
-);
-width = 501;
-},
-{
-layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
+layerId = master01;
 shapes = (
 {
 alignment = -1;
@@ -176,17 +120,17 @@ type = Stem;
 }
 );
 };
-width = 784;
+width = 824;
 },
 {
-layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
+layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
 shapes = (
 {
 alignment = -1;
 ref = O;
 },
 {
-pos = (329,0);
+pos = (330,0);
 ref = _tail.Q;
 }
 );
@@ -194,24 +138,10 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 794;
+width = 846;
 },
 {
-layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (391,0);
-ref = _tail.Q;
-}
-);
-width = 843;
-},
-{
-layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
 alignment = -1;
@@ -222,115 +152,21 @@ pos = (379,0);
 ref = _tail.Q;
 }
 );
-width = 886;
+width = 863;
 },
 {
-layerId = m019;
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
 alignment = -1;
 ref = O;
 },
 {
-pos = (366,0);
+pos = (365,0);
 ref = _tail.Q;
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-15
-);
-stem = -2;
-target = (
-u,
-p
-);
-type = BottomGhost;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-1,
-11
-);
-stem = -2;
-target = (
-0,
-14
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-8
-);
-stem = -2;
-target = (
-1,
-5
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-11
-);
-stem = -2;
-target = (
-1,
-2
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-1,
-8
-);
-stem = -2;
-target = (
-0,
-5
-);
-type = Stem;
-}
-);
-};
-width = 813;
-},
-{
-layerId = m020;
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (336,0);
-ref = _tail.Q;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
-};
-width = 842;
+width = 916;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

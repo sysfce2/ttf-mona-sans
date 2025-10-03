@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = quotedblbase.ss01;
-kernRight = KO_quotedblbase.ss01;
+kernRight = quotedblbase.ss01;
 layers = (
 {
 background = {
@@ -59,6 +59,58 @@ width = 436;
 background = {
 shapes = (
 {
+pos = (140,0);
+ref = comma.ss01;
+},
+{
+ref = comma.ss01;
+}
+);
+};
+layerId = master01;
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+},
+{
+alignment = 1;
+pos = (140,0);
+ref = comma.ss01;
+}
+);
+width = 302;
+},
+{
+background = {
+shapes = (
+{
+pos = (260,0);
+ref = comma.ss01;
+},
+{
+ref = comma.ss01;
+}
+);
+};
+layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+},
+{
+alignment = 1;
+pos = (260,0);
+ref = comma.ss01;
+}
+);
+width = 514;
+},
+{
+background = {
+shapes = (
+{
 pos = (120,0);
 ref = comma.ss01;
 },
@@ -106,214 +158,6 @@ ref = comma.ss01;
 }
 );
 width = 542;
-},
-{
-background = {
-shapes = (
-{
-pos = (100,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
-shapes = (
-{
-alignment = -1;
-ref = comma.ss01;
-},
-{
-alignment = -1;
-pos = (100,0);
-ref = comma.ss01;
-}
-);
-width = 222;
-},
-{
-background = {
-shapes = (
-{
-pos = (230,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
-shapes = (
-{
-alignment = 1;
-ref = comma.ss01;
-},
-{
-alignment = 1;
-pos = (230,0);
-ref = comma.ss01;
-}
-);
-width = 421;
-},
-{
-background = {
-shapes = (
-{
-pos = (140,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
-shapes = (
-{
-alignment = -1;
-ref = comma.ss01;
-},
-{
-alignment = -1;
-pos = (140,0);
-ref = comma.ss01;
-}
-);
-width = 302;
-},
-{
-background = {
-shapes = (
-{
-pos = (260,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
-shapes = (
-{
-alignment = -1;
-ref = comma.ss01;
-},
-{
-alignment = -1;
-pos = (260,0);
-ref = comma.ss01;
-}
-);
-width = 494;
-},
-{
-background = {
-shapes = (
-{
-pos = (120,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
-shapes = (
-{
-alignment = -1;
-ref = comma.ss01;
-},
-{
-alignment = -1;
-pos = (120,0);
-ref = comma.ss01;
-}
-);
-width = 257;
-},
-{
-background = {
-shapes = (
-{
-pos = (270,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
-shapes = (
-{
-alignment = -1;
-ref = comma.ss01;
-},
-{
-alignment = -1;
-pos = (270,0);
-ref = comma.ss01;
-}
-);
-width = 542;
-},
-{
-background = {
-shapes = (
-{
-pos = (140,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = m019;
-shapes = (
-{
-alignment = 1;
-ref = comma.ss01;
-},
-{
-alignment = 1;
-pos = (138,0);
-ref = comma.ss01;
-}
-);
-width = 297;
-},
-{
-background = {
-shapes = (
-{
-pos = (260,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = m020;
-shapes = (
-{
-alignment = 1;
-ref = comma.ss01;
-},
-{
-alignment = 1;
-pos = (246,0);
-ref = comma.ss01;
-}
-);
-width = 493;
 },
 {
 background = {

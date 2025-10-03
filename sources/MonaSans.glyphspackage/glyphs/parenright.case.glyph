@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = parenright.case;
-kernLeft = KO_parenright.case;
+kernLeft = parenright.case;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -26,54 +26,9 @@ ref = parenleft.case;
 width = 187;
 },
 {
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+layerId = master01;
 shapes = (
 {
-angle = 180;
-pos = (299,729);
-ref = parenleft.case;
-}
-);
-width = 299;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-angle = 180;
-pos = (380,729);
-ref = parenleft.case;
-}
-);
-width = 380;
-},
-{
-layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
-shapes = (
-{
-angle = 180;
-pos = (159,729);
-ref = parenleft.case;
-}
-);
-width = 159;
-},
-{
-layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
-shapes = (
-{
-angle = 180;
-pos = (282,729);
-ref = parenleft.case;
-}
-);
-width = 282;
-},
-{
-layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
-shapes = (
-{
-alignment = -1;
 angle = 180;
 pos = (303,729);
 ref = parenleft.case;
@@ -102,12 +57,11 @@ type = Stem;
 width = 303;
 },
 {
-layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
+layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
 shapes = (
 {
-alignment = -1;
 angle = 180;
-pos = (349,729);
+pos = (375,729);
 ref = parenleft.case;
 }
 );
@@ -115,13 +69,12 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenright;
 };
-width = 349;
+width = 375;
 },
 {
-layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
-alignment = -1;
 angle = 180;
 pos = (299,729);
 ref = parenleft.case;
@@ -130,61 +83,15 @@ ref = parenleft.case;
 width = 299;
 },
 {
-layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
 angle = 180;
-pos = (365,729);
+pos = (380,729);
 ref = parenleft.case;
 }
 );
-width = 365;
-},
-{
-layerId = m019;
-shapes = (
-{
-angle = 180;
-pos = (298,729);
-ref = parenleft.case;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenright;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenright;
-com.schriftgestaltung.hints = (
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-6
-);
-stem = -2;
-target = (
-0,
-13
-);
-type = Stem;
-}
-);
-};
-width = 298;
-},
-{
-layerId = m020;
-shapes = (
-{
-angle = 180;
-pos = (358,729);
-ref = parenleft.case;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenright;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenright;
-};
-width = 358;
+width = 380;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

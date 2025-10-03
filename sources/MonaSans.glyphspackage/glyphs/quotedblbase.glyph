@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = quotedblbase;
-kernRight = KO_quotedblbase;
+kernRight = quotedblbase;
 layers = (
 {
 background = {
@@ -67,6 +67,66 @@ ref = comma;
 }
 );
 };
+layerId = master01;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+},
+{
+alignment = 1;
+pos = (129,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 308;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (254,0);
+ref = comma;
+}
+);
+};
+layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+shapes = (
+{
+alignment = 1;
+ref = comma;
+},
+{
+alignment = 1;
+pos = (254,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 495;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (129,0);
+ref = comma;
+}
+);
+};
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -106,231 +166,6 @@ ref = comma;
 }
 );
 width = 544;
-},
-{
-background = {
-shapes = (
-{
-pos = (164,0);
-ref = comma;
-},
-{
-pos = (274,0);
-ref = comma;
-}
-);
-};
-layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (80,0);
-ref = comma;
-}
-);
-width = 180;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (224,0);
-ref = comma;
-}
-);
-};
-layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (209,0);
-ref = comma;
-}
-);
-width = 409;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (129,0);
-ref = comma;
-}
-);
-};
-layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (109,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 251;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (254,0);
-ref = comma;
-}
-);
-};
-layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (244,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 467;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (129,0);
-ref = comma;
-}
-);
-};
-layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (116,0);
-ref = comma;
-}
-);
-width = 242;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (277,0);
-ref = comma;
-}
-);
-};
-layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (302,0);
-ref = comma;
-}
-);
-width = 599;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (129,0);
-ref = comma;
-}
-);
-};
-layerId = m019;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (127,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 337;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (254,0);
-ref = comma;
-}
-);
-};
-layerId = m020;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (269,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 558;
 },
 {
 background = {

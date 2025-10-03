@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = imacron;
-kernLeft = KO_imacron;
+kernLeft = imacron;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,6 +30,32 @@ ref = macroncomb;
 width = 231;
 },
 {
+layerId = master01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-96,-155);
+ref = macroncomb;
+}
+);
+width = 207;
+},
+{
+layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-92,-134);
+ref = macroncomb;
+}
+);
+width = 299;
+},
+{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -54,114 +80,6 @@ ref = macroncomb;
 }
 );
 width = 307;
-},
-{
-layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-66,-155);
-ref = macroncomb;
-}
-);
-width = 102;
-},
-{
-layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-79,-139);
-ref = macroncomb;
-}
-);
-width = 209;
-},
-{
-layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-103,-155);
-ref = macroncomb;
-}
-);
-width = 154;
-},
-{
-layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-95,-134);
-ref = macroncomb;
-}
-);
-width = 251;
-},
-{
-layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
-shapes = (
-{
-alignment = -1;
-ref = idotless;
-},
-{
-alignment = -1;
-pos = (-143,-154);
-ref = macroncomb;
-}
-);
-width = 169;
-},
-{
-layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
-shapes = (
-{
-alignment = -1;
-ref = idotless;
-},
-{
-alignment = -1;
-pos = (-110,-129);
-ref = macroncomb;
-}
-);
-width = 307;
-},
-{
-layerId = m019;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-95,-155);
-ref = macroncomb;
-}
-);
-width = 203;
-},
-{
-layerId = m020;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-83,-134);
-ref = macroncomb;
-}
-);
-width = 303;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

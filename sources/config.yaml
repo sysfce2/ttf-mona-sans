@@ -1,24 +1,17 @@
 sources:
   - MonaSans.glyphspackage
 familyName: "Mona Sans"
-outputDir: "../fonts/googlefonts"
+outputDir: "../googlefonts"
 buildVariable: true
 splitItalic: true
-buildWebfont: True
-buildOTF: True
-buildTTF: True
+buildWebfont: False
+buildOTF: False
+buildTTF: False
 axisOrder:
-  - opsz
   - wdth
   - wght
 stat:
   MonaSans[wdth,wght].ttf:
-  - name: Optical size
-    tag: opsz
-    values:
-    - name: 16pt
-      value: 16
-      flags: 2
   - name: Width
     tag: wdth
     values:
@@ -65,12 +58,6 @@ stat:
     - name: Italic
       value: 1
   MonaSans-Italic[wdth,wght].ttf:
-  - name: Optical size
-    tag: opsz
-    values:
-    - name: 16pt
-      value: 16
-      flags: 2
   - name: Width
     tag: wdth
     values:
