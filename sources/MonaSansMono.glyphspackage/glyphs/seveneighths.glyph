@@ -6,14 +6,18 @@ layers = (
 layerId = m019;
 shapes = (
 {
+alignment = -1;
+pos = (-81,0);
 ref = seven.numr;
 },
 {
-pos = (619,0);
+alignment = -1;
+pos = (-23,0);
 ref = fraction;
 },
 {
-pos = (1237,0);
+alignment = -1;
+pos = (264,0);
 ref = eight.dnom;
 }
 );
@@ -21,30 +25,36 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
 };
-width = 1856;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
+alignment = -1;
+pos = (-61,72);
 ref = seven.numr;
+scale = (0.9,0.9);
 },
 {
-pos = (618,0);
+alignment = -1;
 ref = fraction;
 },
 {
-pos = (1236,0);
+alignment = -1;
+pos = (280,0);
 ref = eight.dnom;
+scale = (0.9,0.9);
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
 };
-width = 1855;
+width = 618;
 }
 );
+metricWidth = H;
 unicode = 8542;
 userData = {
 KernOnSpecialSpacing = {

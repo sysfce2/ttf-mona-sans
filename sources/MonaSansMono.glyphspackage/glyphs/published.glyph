@@ -80,7 +80,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (40,0);
+pos = (39,0);
 ref = _published.P;
 }
 );
@@ -186,7 +186,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 background = {
@@ -266,7 +266,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (22,0);
+pos = (21,0);
 ref = _published.P;
 }
 );
@@ -274,7 +274,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = copyright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = copyright;
 };
-width = 619;
+width = 618;
 }
 );
 metricLeft = copyright;

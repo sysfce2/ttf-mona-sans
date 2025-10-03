@@ -71,7 +71,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -90,7 +90,7 @@ width = 54;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = eight.dnom;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = eight.dnom;
 };
-width = 619;
+width = 618;
 }
 );
 userData = {

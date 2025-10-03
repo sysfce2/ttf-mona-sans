@@ -105,6 +105,15 @@ tag = aalt;
 {
 automatic = 1;
 code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub iogonek' @CombiningTopAccents by iogonek.dotless;
+	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_DFLT_2 {
 	lookupflag 0;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
@@ -114,35 +123,24 @@ code = "lookup ccmp_DFLT_1 {
 	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_DFLT_1;
+} ccmp_DFLT_2;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub iogonek' @CombiningTopAccents by iogonek.dotless;
-	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
 	lookupflag 0;
 	@Markscomb = [strokeshortcomb slashshortcomb slashlongcomb];
 	@MarkscombCase = [strokeshortcomb.case slashshortcomb.case slashlongcomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
+} ccmp_Other_1;
 
-lookup ccmp_Other_3 {
+lookup ccmp_Other_2 {
 	lookupflag 0;
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_3;
+} ccmp_Other_2;
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
-	sub fi by f i;
-	sub fl by f l;
 	sub Ldot by L periodcentered.loclCAT.case;
 	sub ldot by l periodcentered.loclCAT;
 } ccmp_latn_1;
@@ -347,15 +345,7 @@ tag = case;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f f i by f_f_i.liga;
-sub f f by f_f.liga;
-sub f y by f_y.liga;
-sub t i by t_i.liga;
-sub t t by t_t.liga;
-sub f i by fi;
-sub f l by fl;
-";
+code = "";
 tag = liga;
 },
 {
@@ -414,9 +404,6 @@ sub zdotaccent by zdotaccent.ss01;
 sub idotbelow.dotless by idotbelow.dotless.ss01;
 sub adieresis.ss05 by adieresis.ss05.ss01;
 sub adotbelow.ss05 by adotbelow.ss05.ss01;
-sub fi by fi.ss01;
-sub f_f_i.liga by f_f_i.liga.ss01;
-sub t_i.liga by t_i.liga.ss01;
 sub period by period.ss01;
 sub comma by comma.ss01;
 sub colon by colon.ss01;

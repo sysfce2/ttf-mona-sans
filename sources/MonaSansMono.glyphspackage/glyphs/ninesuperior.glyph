@@ -7,7 +7,8 @@ layers = (
 layerId = m019;
 shapes = (
 {
-pos = (0,376);
+alignment = -1;
+pos = (-175,376);
 ref = nineinferior;
 }
 );
@@ -98,7 +99,8 @@ width = 619;
 layerId = m020;
 shapes = (
 {
-pos = (0,376);
+alignment = -1;
+pos = (-178,376);
 ref = nineinferior;
 }
 );

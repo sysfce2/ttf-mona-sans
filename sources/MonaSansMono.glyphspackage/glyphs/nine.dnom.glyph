@@ -6,8 +6,9 @@ layers = (
 layerId = m019;
 shapes = (
 {
+alignment = -1;
 angle = 180;
-pos = (618,398);
+pos = (442,398);
 ref = six.dnom;
 }
 );
@@ -96,8 +97,9 @@ width = 618;
 layerId = m020;
 shapes = (
 {
+alignment = -1;
 angle = 180;
-pos = (618,375);
+pos = (439,375);
 ref = six.dnom;
 }
 );

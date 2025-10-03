@@ -1,4 +1,5 @@
 {
+export = 0;
 glyphname = t_t.liga;
 kernLeft = t;
 kernRight = t;

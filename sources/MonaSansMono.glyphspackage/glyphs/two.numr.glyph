@@ -77,7 +77,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -96,7 +96,7 @@ width = 54;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = two.dnom;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = two.dnom;
 };
-width = 619;
+width = 618;
 }
 );
 userData = {

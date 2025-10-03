@@ -86,6 +86,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
+pos = (-1,0);
 ref = _copyright.C;
 }
 );
@@ -175,7 +176,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 background = {
@@ -261,10 +262,11 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
+pos = (-1,0);
 ref = _copyright.C;
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = whiteCircle;

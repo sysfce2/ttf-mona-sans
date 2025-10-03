@@ -152,7 +152,7 @@ width = 54;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = three.dnom;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = three.dnom;
 };
-width = 619;
+width = 618;
 }
 );
 userData = {

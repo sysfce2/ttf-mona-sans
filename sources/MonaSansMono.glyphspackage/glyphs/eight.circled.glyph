@@ -113,7 +113,7 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (0,189);
+pos = (89,189);
 ref = eightinferior;
 }
 );
@@ -124,7 +124,7 @@ weight = -50;
 width = 55;
 };
 };
-width = 619;
+width = 618;
 },
 {
 background = {
@@ -237,7 +237,7 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (0,191);
+pos = (89,191);
 ref = eightinferior;
 }
 );
@@ -248,7 +248,7 @@ weight = -450;
 width = 50;
 };
 };
-width = 619;
+width = 618;
 }
 );
 metricLeft = one.sansSerifCircled;

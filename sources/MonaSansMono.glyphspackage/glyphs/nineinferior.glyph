@@ -10,8 +10,9 @@ Slant = 2;
 };
 shapes = (
 {
+alignment = -1;
 angle = 180;
-pos = (619,353);
+pos = (444,353);
 ref = sixinferior;
 }
 );
@@ -104,8 +105,9 @@ Slant = 2;
 };
 shapes = (
 {
+alignment = -1;
 angle = 180;
-pos = (618,354);
+pos = (460,354);
 ref = sixinferior;
 }
 );
