@@ -1,15 +1,15 @@
 sources:
   - MonaSans.glyphspackage
 familyName: "Mona Sans"
-outputDir: "../fonts"
-buildOTF: True
-buildVariable: True
-buildWebfont: True
-buildTTF: True
+outputDir: "../googlefonts"
+buildVariable: true
+splitItalic: true
+buildWebfont: False
+buildOTF: False
+buildTTF: False
 axisOrder:
   - wdth
   - wght
-  - ital
 stat:
   MonaSans[wdth,wght].ttf:
   - name: Width
