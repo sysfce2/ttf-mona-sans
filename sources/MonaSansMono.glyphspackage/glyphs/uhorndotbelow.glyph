@@ -10,11 +10,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-18,0);
+pos = (-13,0);
 ref = dotbelowcomb;
 }
 );
-width = 600;
+width = 618;
 },
 {
 layerId = m020;
@@ -23,11 +23,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-19,0);
+pos = (-18,0);
 ref = dotbelowcomb;
 }
 );
-width = 635;
+width = 618;
 }
 );
 unicode = 7921;

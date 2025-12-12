@@ -22,11 +22,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (619,608);
+pos = (618,608);
 ref = guillemetleft;
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = "=|guillemetleft";

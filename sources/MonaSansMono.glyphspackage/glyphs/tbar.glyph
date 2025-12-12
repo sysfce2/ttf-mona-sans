@@ -6,27 +6,23 @@ layers = (
 layerId = m019;
 shapes = (
 {
-alignment = -1;
-pos = (145,0);
 ref = t;
 },
 {
-pos = (122,0);
+pos = (-23,0);
 ref = strokeshortcomb.t;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
-alignment = -1;
-pos = (93,0);
 ref = t;
 },
 {
-pos = (84,-5);
+pos = (-9,-5);
 ref = strokeshortcomb.t;
 }
 );

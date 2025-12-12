@@ -14,7 +14,7 @@ pos = (-39,-155);
 ref = gravecomb;
 }
 );
-width = 604;
+width = 618;
 },
 {
 layerId = m020;
@@ -23,11 +23,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (-51,-134);
+pos = (-49,-134);
 ref = gravecomb;
 }
 );
-width = 613;
+width = 618;
 }
 );
 unicode = 7901;

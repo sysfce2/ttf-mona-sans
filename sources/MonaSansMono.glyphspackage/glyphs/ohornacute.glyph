@@ -14,7 +14,7 @@ pos = (40,-155);
 ref = acutecomb;
 }
 );
-width = 604;
+width = 618;
 },
 {
 layerId = m020;
@@ -23,11 +23,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (46,-134);
+pos = (48,-134);
 ref = acutecomb;
 }
 );
-width = 613;
+width = 618;
 }
 );
 unicode = 7899;

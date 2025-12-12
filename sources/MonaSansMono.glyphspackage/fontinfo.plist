@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -80,8 +80,6 @@ feature numr;
 feature dnom;
 feature frac;
 feature ordn;
-feature pnum;
-feature tnum;
 feature case;
 feature ss01;
 feature ss02;
@@ -90,7 +88,8 @@ feature ss04;
 feature ss05;
 feature ss06;
 feature ss07;
-feature ss08;
+feature ss09;
+feature ss10;
 ";
 tag = aalt;
 },
@@ -285,36 +284,6 @@ tag = ordn;
 },
 {
 automatic = 1;
-code = "sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-";
-tag = pnum;
-},
-{
-automatic = 1;
-code = "sub zero by zero.tf;
-sub one by one.tf;
-sub two by two.tf;
-sub three by three.tf;
-sub four by four.tf;
-sub five by five.tf;
-sub six by six.tf;
-sub seven by seven.tf;
-sub eight by eight.tf;
-sub nine by nine.tf;
-";
-tag = tnum;
-},
-{
-automatic = 1;
 code = "sub exclamdown by exclamdown.case;
 sub questiondown by questiondown.case;
 sub periodcentered.loclCAT by periodcentered.loclCAT.case;
@@ -334,11 +303,6 @@ sub slashshortcomb by slashshortcomb.case;
 sub slashlongcomb by slashlongcomb.case;
 ";
 tag = case;
-},
-{
-automatic = 1;
-code = "";
-tag = liga;
 },
 {
 automatic = 1;
@@ -558,15 +522,151 @@ tag = ss07;
 },
 {
 automatic = 1;
-code = "sub zero.tf by zero.tf.ss08;
+code = "sub one by one.ss09;
 ";
 labels = (
 {
 language = dflt;
-value = "Tabular zero with straight bar";
+value = "One no serif";
 }
 );
-tag = ss08;
+tag = ss09;
+},
+{
+automatic = 1;
+code = "sub zero by zero.ss10;
+";
+labels = (
+{
+language = dflt;
+value = "Zero no slash";
+}
+);
+tag = ss10;
+},
+{
+code = "lookup ampersand_ampersand.liga {
+ignore sub ampersand ampersand' ampersand;
+ignore sub ampersand' ampersand ampersand;
+sub SPC ampersand' by ampersand_ampersand.liga;
+sub ampersand' ampersand by SPC;
+} ampersand_ampersand.liga;
+
+lookup bar_bar.liga {
+ignore sub bar bar' bar;
+ignore sub bar' bar bar;
+ignore sub bracketleft bar' bar;
+ignore sub bar' bar bracketright;
+sub SPC bar' by bar_bar.liga;
+sub bar' bar by SPC;
+} bar_bar.liga;
+
+lookup equal_equal.liga {
+ignore sub equal equal' equal;
+ignore sub parenleft question less equal' equal;
+ignore sub parenleft question equal' equal;
+ignore sub equal' equal equal;
+ignore sub equal' equal greater;
+sub SPC equal' by equal_equal.liga;
+sub equal' equal by SPC;
+} equal_equal.liga;
+
+lookup equal_greater.liga {
+ignore sub bracketleft equal' greater;
+ignore sub equal equal' greater;
+ignore sub greater equal' greater;
+ignore sub bar equal' greater;
+ignore sub parenleft question less equal' greater;
+ignore sub parenleft question equal' greater;
+ignore sub equal' greater equal;
+ignore sub equal' greater greater;
+sub SPC greater' by equal_greater.liga;
+sub equal' greater by SPC;
+} equal_greater.liga;
+
+lookup exclam_equal.liga {
+ignore sub exclam exclam' equal;
+ignore sub parenleft question exclam' equal;
+ignore sub parenleft question less exclam' equal;
+ignore sub equal exclam' equal;
+ignore sub exclam' equal equal;
+sub SPC equal' by exclam_equal.liga;
+sub exclam' equal by SPC;
+} exclam_equal.liga;
+
+lookup greater_equal.liga {
+ignore sub greater greater' equal;
+ignore sub greater' equal equal;
+ignore sub greater' equal greater;
+ignore sub greater' equal less;
+sub SPC equal' by greater_equal.liga;
+sub greater' equal by SPC;
+} greater_equal.liga;
+
+lookup hyphen_greater.liga {
+ignore sub bracketleft hyphen' greater;
+ignore sub hyphen hyphen' greater;
+ignore sub greater hyphen' greater;
+ignore sub bar hyphen' greater;
+ignore sub hyphen' greater greater;
+ignore sub plus hyphen' greater;
+sub SPC greater' by hyphen_greater.liga;
+sub hyphen' greater by SPC;
+} hyphen_greater.liga;
+
+lookup less_equal.liga {
+ignore sub less' equal less;
+ignore sub less' equal bar;
+ignore sub less less' equal;
+ignore sub parenleft question less' equal;
+ignore sub less' equal equal;
+sub SPC equal' by less_equal.liga;
+sub less' equal by SPC;
+} less_equal.liga;
+
+lookup plus_plus.liga {
+ignore sub plus plus' plus;
+ignore sub colon plus' plus;
+ignore sub plus' plus plus;
+ignore sub plus' plus colon;
+sub SPC plus' by plus_plus.liga;
+sub plus' plus by SPC;
+} plus_plus.liga;
+
+lookup hyphen_hyphen.liga {
+ignore sub bracketleft hyphen' hyphen greater;
+ignore sub parenleft question less exclam hyphen' hyphen;
+ignore sub hyphen hyphen' hyphen;
+ignore sub less hyphen' hyphen;
+ignore sub hyphen' hyphen hyphen;
+sub SPC hyphen' by hyphen_hyphen.liga;
+sub hyphen' hyphen by SPC;
+} hyphen_hyphen.liga;
+
+lookup colon_colon.liga {
+ignore sub colon colon' colon;
+ignore sub colon' colon colon;
+ignore sub colon' colon equal;
+sub SPC colon' by colon_colon.liga;
+sub colon' colon by SPC;
+} colon_colon.liga;";
+tag = calt;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub ampersand ampersand by ampersand_ampersand.liga;
+sub bar bar by bar_bar.liga;
+sub equal equal by equal_equal.liga;
+sub equal greater by equal_greater.liga;
+sub exclam equal by exclam_equal.liga;
+sub greater equal by greater_equal.liga;
+sub hyphen greater by hyphen_greater.liga;
+sub less equal by less_equal.liga;
+sub plus plus by plus_plus.liga;
+";
+disabled = 1;
+tag = liga;
 }
 );
 fontMaster = (
@@ -1805,5 +1905,5 @@ value = 1.3;
 };
 };
 versionMajor = 0;
-versionMinor = 5;
+versionMinor = 41;
 }

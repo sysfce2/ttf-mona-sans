@@ -11,11 +11,11 @@ ref = l.ss03;
 },
 {
 alignment = 1;
-pos = (193,18);
+pos = (173,18);
 ref = periodcentered.loclCAT.ss01;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -25,7 +25,7 @@ ref = l.ss03;
 },
 {
 alignment = 1;
-pos = (191,20);
+pos = (201,20);
 ref = periodcentered.loclCAT.ss01;
 }
 );

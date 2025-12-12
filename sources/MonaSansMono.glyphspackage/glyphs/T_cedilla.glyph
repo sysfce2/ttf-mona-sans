@@ -23,11 +23,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (-22,0);
+pos = (-23,0);
 ref = cedillacomb.T;
 }
 );
-width = 619;
+width = 618;
 }
 );
 unicode = 354;

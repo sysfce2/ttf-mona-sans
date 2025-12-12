@@ -8,7 +8,7 @@ layerId = m019;
 shapes = (
 {
 alignment = -1;
-pos = (-175,376);
+pos = (0,376);
 ref = nineinferior;
 }
 );
@@ -93,14 +93,14 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 alignment = -1;
-pos = (-178,376);
+pos = (0,376);
 ref = nineinferior;
 }
 );
@@ -116,6 +116,8 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = nineinferior;
 width = 618;
 }
 );
+metricLeft = nineinferior;
+metricRight = nineinferior;
 unicode = 8313;
 userData = {
 KernOnSpecialSpacing = {

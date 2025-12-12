@@ -19,12 +19,13 @@ ref = comma;
 layerId = m019;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-98,0);
 ref = comma;
 },
 {
-alignment = 1;
-pos = (189,0);
+alignment = -1;
+pos = (91,0);
 ref = comma;
 }
 );
@@ -32,7 +33,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
 };
-width = 808;
+width = 618;
 },
 {
 background = {
@@ -50,24 +51,25 @@ ref = comma;
 layerId = m020;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-106,0);
 ref = comma;
+scale = (0.9,0.9);
 },
 {
-alignment = 1;
-pos = (324,3);
+alignment = -1;
+pos = (168,3);
 ref = comma;
+scale = (0.9,0.9);
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
 };
-width = 942;
+width = 618;
 }
 );
-metricLeft = comma;
-metricRight = comma;
 unicode = 8222;
 userData = {
 KernOnSpecialSpacing = {

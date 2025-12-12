@@ -13,7 +13,7 @@ pos = (0,672);
 ref = quotedblbase.ss01;
 }
 );
-width = 758;
+width = 618;
 },
 {
 layerId = m020;
@@ -24,7 +24,7 @@ pos = (0,567);
 ref = quotedblbase.ss01;
 }
 );
-width = 878;
+width = 618;
 }
 );
 metricLeft = comma.ss01;
