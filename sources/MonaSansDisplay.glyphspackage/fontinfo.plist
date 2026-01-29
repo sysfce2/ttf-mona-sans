@@ -63,48 +63,6 @@ name = unicodeRanges;
 value = (
 0
 );
-},
-{
-name = "Import Master";
-value = {
-Master = "Condensed ExtraLight";
-Path = MonaSans.glyphspackage;
-};
-},
-{
-name = "Import Master";
-value = {
-Master = "Condensed Black";
-Path = MonaSans.glyphspackage;
-};
-},
-{
-name = "Import Master";
-value = {
-Master = ExtraLight;
-Path = MonaSans.glyphspackage;
-};
-},
-{
-name = "Import Master";
-value = {
-Master = Black;
-Path = MonaSans.glyphspackage;
-};
-},
-{
-name = "Import Master";
-value = {
-Master = "Expanded ExtraLight";
-Path = MonaSans.glyphspackage;
-};
-},
-{
-name = "Import Master";
-value = {
-Master = "Expanded Black";
-Path = MonaSans.glyphspackage;
-};
 }
 );
 date = "2025-07-16 23:44:39 +0000";
@@ -47987,7 +47945,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Deni Anggara";
+value = "Deni Anggara, Kyle Benson";
 }
 );
 },
