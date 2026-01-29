@@ -1,7 +1,8 @@
 {
 color = 6;
 glyphname = acircumflexgrave.ss05;
-kernLeft = a.ss04;
+kernLeft = KO_a.ss05;
+kernRight = KO_aacute.ss05;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +31,6 @@ ref = circumflexcomb_gravecomb;
 width = 471;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = a.ss05;
-},
-{
-pos = (95,-155);
-ref = circumflexcomb_gravecomb;
-}
-);
-width = 539;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = a.ss05;
-},
-{
-pos = (67,-134);
-ref = circumflexcomb_gravecomb;
-}
-);
-width = 602;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +55,32 @@ ref = circumflexcomb_gravecomb;
 }
 );
 width = 653;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (88,-155);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 523;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (60,-134);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 572;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

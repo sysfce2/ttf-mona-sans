@@ -98,178 +98,6 @@ nodes = (
 width = 409;
 },
 {
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(521,0,l),
-(492,206,ls),
-(482,276,o),
-(447,322,o),
-(387,334,c),
-(387,340,l),
-(475,358,o),
-(534,420,o),
-(540,507,c),
-(612,507,l),
-(612,541,l),
-(539,541,l),
-(536,610,o),
-(493,671,o),
-(439,691,c),
-(439,694,l),
-(612,694,l),
-(612,729,l),
-(66,729,l),
-(66,694,l),
-(314,694,ls),
-(417,694,o),
-(486,647,o),
-(499,542,c),
-(66,542,l),
-(66,507,l),
-(499,507,l),
-(492,414,o),
-(431,359,o),
-(306,359,cs),
-(66,359,l),
-(66,323,l),
-(304,323,ls),
-(375,323,o),
-(440,303,o),
-(455,197,cs),
-(483,0,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-30
-);
-stem = -2;
-type = Anchor;
-},
-{
-horizontal = 1;
-options = 0;
-place = (
-280.732,
-59.071
-);
-stem = -2;
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 0;
-place = (
-687.643,
-1066.179
-);
-stem = -2;
-type = TTStem;
-}
-);
-};
-width = 667;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(534,0,l),
-(478,175,ls),
-(452,255,o),
-(422,291,o),
-(364,305,c),
-(364,312,l),
-(436,325,o),
-(490,362,o),
-(510,423,c),
-(597,423,l),
-(597,539,l),
-(512,539,l),
-(506,565,o),
-(487,592,o),
-(464,606,c),
-(464,613,l),
-(597,613,l),
-(597,729,l),
-(51,729,l),
-(51,587,l),
-(184,587,ls),
-(261,587,o),
-(291,568,o),
-(302,533,c),
-(51,533,l),
-(51,438,l),
-(303,438,l),
-(294,404,o),
-(266,384,o),
-(191,384,cs),
-(51,384,l),
-(51,244,l),
-(128,244,ls),
-(217,244,o),
-(237,230,o),
-(262,156,cs),
-(314,0,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-33
-);
-stem = -2;
-type = Anchor;
-},
-{
-horizontal = 1;
-options = 0;
-place = (
-211,
-173
-);
-stem = -2;
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-19
-);
-stem = -2;
-target = (
-0,
-27
-);
-type = TTStem;
-}
-);
-};
-width = 635;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -364,6 +192,178 @@ nodes = (
 }
 );
 width = 663;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,0,l),
+(485,206,ls),
+(475,276,o),
+(442,322,o),
+(382,334,c),
+(382,340,l),
+(468,358,o),
+(527,420,o),
+(533,507,c),
+(603,507,l),
+(603,541,l),
+(532,541,l),
+(529,610,o),
+(486,671,o),
+(434,691,c),
+(434,694,l),
+(603,694,l),
+(603,729,l),
+(67,729,l),
+(67,694,l),
+(311,694,ls),
+(412,694,o),
+(479,647,o),
+(492,542,c),
+(67,542,l),
+(67,507,l),
+(492,507,l),
+(485,414,o),
+(426,359,o),
+(303,359,cs),
+(67,359,l),
+(67,323,l),
+(301,323,ls),
+(370,323,o),
+(435,303,o),
+(448,197,cs),
+(476,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+30
+);
+stem = -2;
+type = Anchor;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+280.732,
+59.071
+);
+stem = -2;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+687.643,
+1066.179
+);
+stem = -2;
+type = TTStem;
+}
+);
+};
+width = 658;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,0,l),
+(464,175,ls),
+(439,256,o),
+(409,291,o),
+(353,305,c),
+(353,312,l),
+(423,325,o),
+(475,362,o),
+(495,423,c),
+(580,423,l),
+(580,539,l),
+(497,539,l),
+(491,565,o),
+(473,592,o),
+(451,606,c),
+(451,613,l),
+(580,613,l),
+(580,729,l),
+(50,729,l),
+(50,587,l),
+(176,587,ls),
+(248,587,o),
+(278,569,o),
+(289,533,c),
+(50,533,l),
+(50,438,l),
+(290,438,l),
+(281,404,o),
+(255,384,o),
+(183,384,cs),
+(50,384,l),
+(50,244,l),
+(121,244,ls),
+(207,244,o),
+(226,231,o),
+(250,156,cs),
+(302,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+33
+);
+stem = -2;
+type = Anchor;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+211,
+173
+);
+stem = -2;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = TTStem;
+}
+);
+};
+width = 616;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

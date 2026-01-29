@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = ninesuperior;
-kernLeft = ninesuperior;
+kernLeft = KO_ninesuperior;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -38,7 +38,41 @@ width = 60;
 width = 281;
 },
 {
-layerId = master01;
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+shapes = (
+{
+pos = (0,376);
+ref = nineinferior;
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -25;
+width = 60;
+};
+};
+width = 447;
+},
+{
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+pos = (0,376);
+ref = nineinferior;
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -300;
+width = 60;
+};
+};
+width = 461;
+},
+{
+layerId = m019;
 shapes = (
 {
 pos = (0,376);
@@ -126,10 +160,10 @@ type = Stem;
 }
 );
 };
-width = 417;
+width = 414;
 },
 {
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+layerId = m020;
 shapes = (
 {
 pos = (0,376);
@@ -145,41 +179,7 @@ width = 60;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = nineinferior;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = nineinferior;
 };
-width = 420;
-},
-{
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-pos = (0,376);
-ref = nineinferior;
-}
-);
-userData = {
-RMXScaler = {
-height = 60;
-weight = -25;
-width = 60;
-};
-};
-width = 447;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-pos = (0,376);
-ref = nineinferior;
-}
-);
-userData = {
-RMXScaler = {
-height = 60;
-weight = -300;
-width = 60;
-};
-};
-width = 461;
+width = 403;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

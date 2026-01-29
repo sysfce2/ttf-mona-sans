@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = lcaron.ss04;
-kernLeft = l.ss03;
-kernRight = lcaron;
+kernLeft = KO_l.ss04;
+kernRight = KO_lcaron;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -31,32 +31,6 @@ ref = caroncomb.alt;
 width = 231;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = l.ss04;
-},
-{
-pos = (140,0);
-ref = caroncomb.alt;
-}
-);
-width = 207;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = l.ss04;
-},
-{
-pos = (224,0);
-ref = caroncomb.alt;
-}
-);
-width = 299;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +55,32 @@ ref = caroncomb.alt;
 }
 );
 width = 307;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = l.ss04;
+},
+{
+pos = (144,0);
+ref = caroncomb.alt;
+}
+);
+width = 208;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = l.ss04;
+},
+{
+pos = (212,0);
+ref = caroncomb.alt;
+}
+);
+width = 286;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

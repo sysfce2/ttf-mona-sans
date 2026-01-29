@@ -1,8 +1,8 @@
 {
 color = 7;
 glyphname = Q;
-kernLeft = O;
-kernRight = Q;
+kernLeft = KO_O;
+kernRight = KO_Q;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -33,14 +33,42 @@ ref = _tail.Q;
 width = 432;
 },
 {
-layerId = master01;
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
 alignment = -1;
 ref = O;
 },
 {
-pos = (368,0);
+pos = (379,0);
+ref = _tail.Q;
+}
+);
+width = 863;
+},
+{
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (365,0);
+ref = _tail.Q;
+}
+);
+width = 916;
+},
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (366,0);
 ref = _tail.Q;
 }
 );
@@ -120,17 +148,17 @@ type = Stem;
 }
 );
 };
-width = 824;
+width = 813;
 },
 {
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+layerId = m020;
 shapes = (
 {
 alignment = -1;
 ref = O;
 },
 {
-pos = (330,0);
+pos = (336,0);
 ref = _tail.Q;
 }
 );
@@ -138,35 +166,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 846;
-},
-{
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (379,0);
-ref = _tail.Q;
-}
-);
-width = 863;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-alignment = -1;
-ref = O;
-},
-{
-pos = (365,0);
-ref = _tail.Q;
-}
-);
-width = 916;
+width = 842;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

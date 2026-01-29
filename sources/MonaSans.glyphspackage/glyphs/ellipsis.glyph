@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = ellipsis;
-kernLeft = ellipsis;
-kernRight = ellipsis;
+kernLeft = KO_ellipsis;
+kernRight = KO_ellipsis;
 layers = (
 {
 background = {
@@ -179,170 +179,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(110,-7,o),
-(123,5,o),
-(123,22,cs),
-(123,39,o),
-(110,51,o),
-(93,51,cs),
-(76,51,o),
-(63,39,o),
-(63,22,cs),
-(63,5,o),
-(76,-7,o),
-(93,-7,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(296,-7,o),
-(309,5,o),
-(309,22,cs),
-(309,39,o),
-(296,51,o),
-(279,51,cs),
-(262,51,o),
-(249,39,o),
-(249,22,cs),
-(249,5,o),
-(262,-7,o),
-(279,-7,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(482,-7,o),
-(495,5,o),
-(495,22,cs),
-(495,39,o),
-(482,51,o),
-(465,51,cs),
-(448,51,o),
-(435,39,o),
-(435,22,cs),
-(435,5,o),
-(448,-7,o),
-(465,-7,cs)
-);
-}
-);
-};
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-anchor = "#exit";
-ref = period;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (186,0);
-ref = period;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (372,0);
-ref = period;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
-};
-width = 542;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(195,-8,o),
-(233,27,o),
-(233,80,cs),
-(233,133,o),
-(195,168,o),
-(139,168,cs),
-(83,168,o),
-(45,133,o),
-(45,80,cs),
-(45,27,o),
-(83,-8,o),
-(139,-8,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(473,-8,o),
-(511,27,o),
-(511,80,cs),
-(511,133,o),
-(473,168,o),
-(417,168,cs),
-(361,168,o),
-(323,133,o),
-(323,80,cs),
-(323,27,o),
-(361,-8,o),
-(417,-8,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(751,-8,o),
-(789,27,o),
-(789,80,cs),
-(789,133,o),
-(751,168,o),
-(695,168,cs),
-(639,168,o),
-(601,133,o),
-(601,80,cs),
-(601,27,o),
-(639,-8,o),
-(695,-8,cs)
-);
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-anchor = "#exit";
-ref = period;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (278,0);
-ref = period;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (556,0);
-ref = period;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
-};
-width = 788;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
 (97,-7,o),
 (110,5,o),
 (110,22,cs),
@@ -492,6 +328,170 @@ ref = period;
 }
 );
 width = 862;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,-7,o),
+(123,5,o),
+(123,22,cs),
+(123,39,o),
+(110,51,o),
+(93,51,cs),
+(76,51,o),
+(63,39,o),
+(63,22,cs),
+(63,5,o),
+(76,-7,o),
+(93,-7,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(296,-7,o),
+(309,5,o),
+(309,22,cs),
+(309,39,o),
+(296,51,o),
+(279,51,cs),
+(262,51,o),
+(249,39,o),
+(249,22,cs),
+(249,5,o),
+(262,-7,o),
+(279,-7,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(482,-7,o),
+(495,5,o),
+(495,22,cs),
+(495,39,o),
+(482,51,o),
+(465,51,cs),
+(448,51,o),
+(435,39,o),
+(435,22,cs),
+(435,5,o),
+(448,-7,o),
+(465,-7,cs)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+anchor = "#exit";
+ref = period;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (182,0);
+ref = period;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (364,0);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
+};
+width = 565;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,-8,o),
+(233,27,o),
+(233,80,cs),
+(233,133,o),
+(195,168,o),
+(139,168,cs),
+(83,168,o),
+(45,133,o),
+(45,80,cs),
+(45,27,o),
+(83,-8,o),
+(139,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(473,-8,o),
+(511,27,o),
+(511,80,cs),
+(511,133,o),
+(473,168,o),
+(417,168,cs),
+(361,168,o),
+(323,133,o),
+(323,80,cs),
+(323,27,o),
+(361,-8,o),
+(417,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(751,-8,o),
+(789,27,o),
+(789,80,cs),
+(789,133,o),
+(751,168,o),
+(695,168,cs),
+(639,168,o),
+(601,133,o),
+(601,80,cs),
+(601,27,o),
+(639,-8,o),
+(695,-8,cs)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+anchor = "#exit";
+ref = period;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (288,0);
+ref = period;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (576,0);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
+};
+width = 864;
 },
 {
 background = {

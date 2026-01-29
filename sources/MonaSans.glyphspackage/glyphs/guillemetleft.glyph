@@ -1,7 +1,7 @@
 {
 glyphname = guillemetleft;
-kernLeft = guillemetleft;
-kernRight = guillemetleft;
+kernLeft = KO_guillemetleft;
+kernRight = KO_guillemetleft;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -58,62 +58,6 @@ nodes = (
 }
 );
 width = 325;
-},
-{
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(205,80,l),
-(92,299,l),
-(205,517,l),
-(172,517,l),
-(52,299,l),
-(172,80,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(350,80,l),
-(237,299,l),
-(350,517,l),
-(317,517,l),
-(197,299,l),
-(317,80,l)
-);
-}
-);
-width = 402;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(315,64,l),
-(208,305,l),
-(315,544,l),
-(151,544,l),
-(22,305,l),
-(151,64,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(574,64,l),
-(467,305,l),
-(574,544,l),
-(410,544,l),
-(281,305,l),
-(410,64,l)
-);
-}
-);
-width = 597;
 },
 {
 background = {
@@ -196,6 +140,62 @@ nodes = (
 }
 );
 width = 598;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(204,80,l),
+(93,299,l),
+(204,517,l),
+(171,517,l),
+(53,299,l),
+(171,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(346,80,l),
+(236,299,l),
+(346,517,l),
+(314,517,l),
+(196,299,l),
+(314,80,l)
+);
+}
+);
+width = 399;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,64,l),
+(205,305,l),
+(306,544,l),
+(144,544,l),
+(21,305,l),
+(144,64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(557,64,l),
+(456,305,l),
+(557,544,l),
+(395,544,l),
+(272,305,l),
+(395,64,l)
+);
+}
+);
+width = 578;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

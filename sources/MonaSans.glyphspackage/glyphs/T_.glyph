@@ -1,7 +1,7 @@
 {
 glyphname = T;
-kernLeft = T;
-kernRight = T;
+kernLeft = KO_T;
+kernRight = KO_T;
 layers = (
 {
 anchors = (
@@ -83,128 +83,6 @@ width = 315;
 anchors = (
 {
 name = bottom;
-pos = (297,0);
-},
-{
-name = center;
-pos = (297,365);
-},
-{
-name = top;
-pos = (297,729);
-}
-);
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(316,0,l),
-(316,703,l),
-(278,703,l),
-(278,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(566,693,l),
-(566,729,l),
-(28,729,l),
-(28,693,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-7
-);
-stem = -2;
-target = (
-u,
-p
-);
-type = BottomGhost;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-4
-);
-stem = -2;
-target = (
-0,
-5
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-7
-);
-stem = -2;
-target = (
-0,
-0
-);
-type = Stem;
-}
-);
-};
-width = 594;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (326,0);
-},
-{
-name = center;
-pos = (323,324);
-},
-{
-name = top;
-pos = (326,729);
-}
-);
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(424,0,l),
-(424,571,l),
-(221,571,l),
-(221,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(631,555,l),
-(631,729,l),
-(20,729,l),
-(20,555,l)
-);
-}
-);
-width = 651;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (327,0);
 },
 {
@@ -276,6 +154,128 @@ nodes = (
 }
 );
 width = 684;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (324,0);
+},
+{
+name = center;
+pos = (324,365);
+},
+{
+name = top;
+pos = (324,729);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,0,l),
+(343,703,l),
+(305,703,l),
+(305,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(617,693,l),
+(617,729,l),
+(31,729,l),
+(31,693,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+7
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+4
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+7
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 647;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (321,0);
+},
+{
+name = center;
+pos = (318,324);
+},
+{
+name = top;
+pos = (321,729);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(418,0,l),
+(418,571,l),
+(217,571,l),
+(217,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(622,555,l),
+(622,729,l),
+(17,729,l),
+(17,555,l)
+);
+}
+);
+width = 639;
 },
 {
 anchors = (

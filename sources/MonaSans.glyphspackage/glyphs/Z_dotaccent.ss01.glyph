@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = Zdotaccent.ss01;
-kernLeft = Z;
-kernRight = Z;
+kernLeft = KO_Z;
+kernRight = KO_Z;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -31,32 +31,6 @@ ref = dotaccentcomb.ss01;
 width = 434;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = Z;
-},
-{
-pos = (249,57);
-ref = dotaccentcomb.ss01;
-}
-);
-width = 618;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = Z;
-},
-{
-pos = (185,51);
-ref = dotaccentcomb.ss01;
-}
-);
-width = 642;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +55,32 @@ ref = dotaccentcomb.ss01;
 }
 );
 width = 699;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (230,57);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 596;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (180,51);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 627;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

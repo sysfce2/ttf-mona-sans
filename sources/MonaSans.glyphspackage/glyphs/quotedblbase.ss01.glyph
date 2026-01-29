@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = quotedblbase.ss01;
-kernRight = quotedblbase.ss01;
+kernRight = KO_quotedblbase.ss01;
 layers = (
 {
 background = {
@@ -59,58 +59,6 @@ width = 436;
 background = {
 shapes = (
 {
-pos = (140,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-ref = comma.ss01;
-},
-{
-alignment = 1;
-pos = (140,0);
-ref = comma.ss01;
-}
-);
-width = 302;
-},
-{
-background = {
-shapes = (
-{
-pos = (260,0);
-ref = comma.ss01;
-},
-{
-ref = comma.ss01;
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-ref = comma.ss01;
-},
-{
-alignment = 1;
-pos = (260,0);
-ref = comma.ss01;
-}
-);
-width = 514;
-},
-{
-background = {
-shapes = (
-{
 pos = (120,0);
 ref = comma.ss01;
 },
@@ -158,6 +106,58 @@ ref = comma.ss01;
 }
 );
 width = 542;
+},
+{
+background = {
+shapes = (
+{
+pos = (140,0);
+ref = comma.ss01;
+},
+{
+ref = comma.ss01;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+},
+{
+alignment = 1;
+pos = (138,0);
+ref = comma.ss01;
+}
+);
+width = 301;
+},
+{
+background = {
+shapes = (
+{
+pos = (260,0);
+ref = comma.ss01;
+},
+{
+ref = comma.ss01;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+},
+{
+alignment = 1;
+pos = (246,0);
+ref = comma.ss01;
+}
+);
+width = 493;
 },
 {
 background = {

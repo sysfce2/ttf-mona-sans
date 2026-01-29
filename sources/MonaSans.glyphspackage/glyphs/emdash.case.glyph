@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = emdash.case;
-kernLeft = hyphen.case;
-kernRight = hyphen.case;
+kernLeft = KO_hyphen.case;
+kernRight = KO_hyphen.case;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -25,26 +25,6 @@ ref = emdash;
 width = 654;
 },
 {
-layerId = master01;
-shapes = (
-{
-pos = (0,106);
-ref = emdash;
-}
-);
-width = 635;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-pos = (0,93);
-ref = emdash;
-}
-);
-width = 752;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -63,6 +43,26 @@ ref = emdash;
 }
 );
 width = 768;
+},
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,106);
+ref = emdash;
+}
+);
+width = 628;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,93);
+ref = emdash;
+}
+);
+width = 732;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = quotedbl;
-kernLeft = quotedbl;
-kernRight = quotedbl;
+kernLeft = KO_quotedbl;
+kernRight = KO_quotedbl;
 layers = (
 {
 background = {
@@ -68,58 +68,6 @@ ref = quotesingle;
 }
 );
 };
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-ref = quotesingle;
-},
-{
-alignment = 1;
-pos = (161,0);
-ref = quotesingle;
-}
-);
-width = 327;
-},
-{
-background = {
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (247,0);
-ref = quotesingle;
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-ref = quotesingle;
-},
-{
-alignment = 1;
-pos = (247,0);
-ref = quotesingle;
-}
-);
-width = 476;
-},
-{
-background = {
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (161,0);
-ref = quotesingle;
-}
-);
-};
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -159,6 +107,58 @@ ref = quotesingle;
 }
 );
 width = 471;
+},
+{
+background = {
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (161,0);
+ref = quotesingle;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = quotesingle;
+},
+{
+alignment = 1;
+pos = (157,0);
+ref = quotesingle;
+}
+);
+width = 324;
+},
+{
+background = {
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (247,0);
+ref = quotesingle;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = quotesingle;
+},
+{
+alignment = 1;
+pos = (227,0);
+ref = quotesingle;
+}
+);
+width = 452;
 },
 {
 background = {
@@ -334,6 +334,7 @@ width = 468;
 );
 unicode = 34;
 userData = {
+KernOnName = quotedbl;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = ntilde;
-kernLeft = n;
-kernRight = n;
+kernLeft = KO_n;
+kernRight = KO_n;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -31,32 +31,6 @@ ref = tildecomb;
 width = 474;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = n;
-},
-{
-pos = (104,-155);
-ref = tildecomb;
-}
-);
-width = 581;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = n;
-},
-{
-pos = (69,-134);
-ref = tildecomb;
-}
-);
-width = 649;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +55,32 @@ ref = tildecomb;
 }
 );
 width = 722;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (92,-155);
+ref = tildecomb;
+}
+);
+width = 561;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (62,-134);
+ref = tildecomb;
+}
+);
+width = 624;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

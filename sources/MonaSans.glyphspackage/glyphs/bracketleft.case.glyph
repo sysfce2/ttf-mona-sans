@@ -1,5 +1,6 @@
 {
 glyphname = bracketleft.case;
+kernRight = KO_bracketleft.case;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -40,19 +41,57 @@ nodes = (
 width = 219;
 },
 {
-layerId = master01;
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
 closed = 1;
 nodes = (
-(305,-63,l),
-(305,-31,l),
-(138,-31,l),
-(138,761,l),
-(305,761,l),
-(305,793,l),
-(102,793,l),
-(102,-63,l)
+(308,-63,l),
+(308,-31,l),
+(115,-31,l),
+(115,761,l),
+(308,761,l),
+(308,793,l),
+(79,793,l),
+(79,-63,l)
+);
+}
+);
+width = 334;
+},
+{
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(382,-63,l),
+(382,90,l),
+(243,90,l),
+(243,639,l),
+(382,639,l),
+(382,793,l),
+(51,793,l),
+(51,-63,l)
+);
+}
+);
+width = 399;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,-63,l),
+(302,-31,l),
+(139,-31,l),
+(139,761,l),
+(302,761,l),
+(302,793,l),
+(103,793,l),
+(103,-63,l)
 );
 }
 );
@@ -104,22 +143,22 @@ type = Stem;
 }
 );
 };
-width = 346;
+width = 345;
 },
 {
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+layerId = m020;
 shapes = (
 {
 closed = 1;
 nodes = (
-(362,-63,l),
-(362,70,l),
-(242,70,l),
-(242,659,l),
-(362,659,l),
-(362,793,l),
-(64,793,l),
-(64,-63,l)
+(347,-63,l),
+(347,70,l),
+(239,70,l),
+(239,659,l),
+(347,659,l),
+(347,793,l),
+(62,793,l),
+(62,-63,l)
 );
 }
 );
@@ -127,45 +166,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = bracketleft;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceleft.case;
 };
-width = 392;
-},
-{
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-closed = 1;
-nodes = (
-(308,-63,l),
-(308,-31,l),
-(115,-31,l),
-(115,761,l),
-(308,761,l),
-(308,793,l),
-(79,793,l),
-(79,-63,l)
-);
-}
-);
-width = 334;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-closed = 1;
-nodes = (
-(382,-63,l),
-(382,90,l),
-(243,90,l),
-(243,639,l),
-(382,639,l),
-(382,793,l),
-(51,793,l),
-(51,-63,l)
-);
-}
-);
-width = 399;
+width = 375;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

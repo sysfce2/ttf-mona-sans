@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = Ocircumflexdotbelow.ss01;
-kernLeft = O;
-kernRight = O;
+kernLeft = KO_O;
+kernRight = KO_Oacute;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -39,40 +39,6 @@ ref = circumflexcomb;
 width = 494;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (346,0);
-ref = dotbelowcomb.ss01;
-},
-{
-pos = (241,57);
-ref = circumflexcomb;
-}
-);
-width = 810;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = O;
-},
-{
-pos = (265,0);
-ref = dotbelowcomb.ss01;
-},
-{
-pos = (154,51);
-ref = circumflexcomb;
-}
-);
-width = 801;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -105,6 +71,40 @@ ref = circumflexcomb;
 }
 );
 width = 871;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (340,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (237,57);
+ref = circumflexcomb;
+}
+);
+width = 801;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (267,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (162,51);
+ref = circumflexcomb;
+}
+);
+width = 801;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

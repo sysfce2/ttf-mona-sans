@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = hbar;
-kernRight = n;
+kernRight = KO_n;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +30,6 @@ ref = strokeshortcomb;
 width = 474;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = h;
-},
-{
-pos = (-49,324);
-ref = strokeshortcomb;
-}
-);
-width = 581;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = h;
-},
-{
-pos = (-35,325);
-ref = strokeshortcomb;
-}
-);
-width = 649;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +54,32 @@ ref = strokeshortcomb;
 }
 );
 width = 722;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-53,339);
+ref = strokeshortcomb;
+}
+);
+width = 561;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-24,341);
+ref = strokeshortcomb;
+}
+);
+width = 630;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

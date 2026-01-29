@@ -58,106 +58,6 @@ width = 55;
 width = 157;
 },
 {
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(153,0,l),
-(153,397,l),
-(121,397,l),
-(118,360,o),
-(100,333,o),
-(44,333,cs),
-(30,333,l),
-(30,309,l),
-(122,309,l),
-(122,0,l)
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 55;
-weight = -40;
-width = 55;
-};
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-9
-);
-stem = -2;
-target = (
-u,
-p
-);
-type = BottomGhost;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-6
-);
-stem = -2;
-target = (
-0,
-7
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-9
-);
-stem = -2;
-target = (
-0,
-0
-);
-type = Stem;
-}
-);
-};
-width = 238;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(237,0,l),
-(237,375,l),
-(131,375,l),
-(126,331,o),
-(85,306,o),
-(38,306,cs),
-(20,306,l),
-(20,220,l),
-(124,220,l),
-(124,0,l)
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 52;
-weight = -370;
-width = 54;
-};
-};
-width = 291;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -212,6 +112,106 @@ width = 54;
 };
 };
 width = 279;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(152,0,l),
+(152,397,l),
+(122,397,l),
+(119,360,o),
+(101,333,o),
+(47,333,cs),
+(33,333,l),
+(33,309,l),
+(123,309,l),
+(123,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 239;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,0,l),
+(224,375,l),
+(120,375,l),
+(115,331,o),
+(76,306,o),
+(36,306,cs),
+(19,306,l),
+(19,220,l),
+(113,220,l),
+(113,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 275;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

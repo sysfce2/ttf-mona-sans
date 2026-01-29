@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = rcaron;
-kernRight = r;
+kernRight = KO_r;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +30,6 @@ ref = caroncomb;
 width = 309;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = r;
-},
-{
-pos = (7,-155);
-ref = caroncomb;
-}
-);
-width = 340;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = r;
-},
-{
-pos = (-36,-134);
-ref = caroncomb;
-}
-);
-width = 431;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +54,32 @@ ref = caroncomb;
 }
 );
 width = 447;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (7,-155);
+ref = caroncomb;
+}
+);
+width = 333;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (-34,-134);
+ref = caroncomb;
+}
+);
+width = 396;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = quoteleft;
-kernLeft = quotedblleft;
-kernRight = quoteleft;
+kernLeft = KO_quoteleft;
+kernRight = KO_quoteleft;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -29,38 +29,6 @@ ref = quotesinglbase;
 width = 130;
 },
 {
-layerId = master01;
-shapes = (
-{
-alignment = 3;
-angle = 180;
-pos = (179,605);
-ref = quotesinglbase;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblleft;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblleft;
-};
-width = 179;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 3;
-angle = 180;
-pos = (241,562);
-ref = quotesinglbase;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblleft;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblleft;
-};
-width = 241;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -83,6 +51,38 @@ ref = quotesinglbase;
 }
 );
 width = 267;
+},
+{
+layerId = m019;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (210,585);
+ref = quotesinglbase;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblleft;
+};
+width = 210;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (289,562);
+ref = quotesinglbase;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblleft;
+};
+width = 289;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

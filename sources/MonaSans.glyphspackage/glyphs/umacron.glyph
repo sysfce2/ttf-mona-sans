@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = umacron;
-kernLeft = u;
-kernRight = a;
+kernLeft = KO_u;
+kernRight = KO_i.ss01;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -31,32 +31,6 @@ ref = macroncomb;
 width = 474;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (86,-155);
-ref = macroncomb;
-}
-);
-width = 581;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = u;
-},
-{
-pos = (79,-134);
-ref = macroncomb;
-}
-);
-width = 650;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +55,32 @@ ref = macroncomb;
 }
 );
 width = 723;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (80,-155);
+ref = macroncomb;
+}
+);
+width = 561;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (75,-134);
+ref = macroncomb;
+}
+);
+width = 624;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

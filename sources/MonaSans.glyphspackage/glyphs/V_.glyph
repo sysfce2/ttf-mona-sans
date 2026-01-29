@@ -1,7 +1,7 @@
 {
 glyphname = V;
-kernLeft = V;
-kernRight = V;
+kernLeft = KO_V;
+kernRight = KO_V;
 layers = (
 {
 anchors = (
@@ -126,140 +126,6 @@ width = 394;
 anchors = (
 {
 name = bottom;
-pos = (341,0);
-},
-{
-name = top;
-pos = (341,729);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(368,0,l),
-(651,729,l),
-(611,729,l),
-(382,135,l),
-(344,35,l),
-(338,35,l),
-(300,135,l),
-(73,729,l),
-(31,729,l),
-(314,0,l)
-);
-}
-);
-};
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(366,0,l),
-(651,729,l),
-(611,729,l),
-(456,333,l),
-(344,36,l),
-(338,36,l),
-(227,333,l),
-(73,729,l),
-(31,729,l),
-(316,0,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-4
-);
-stem = -2;
-target = (
-0,
-7
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-6
-);
-stem = -2;
-target = (
-d,
-o,
-w,
-n
-);
-type = TopGhost;
-}
-);
-};
-width = 682;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (390,0);
-},
-{
-name = top;
-pos = (390,729);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(527,0,l),
-(769,729,l),
-(542,729,l),
-(433,336,l),
-(394,193,l),
-(386,193,l),
-(346,337,l),
-(238,729,l),
-(11,729,l),
-(254,0,l)
-);
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(527,0,l),
-(769,729,l),
-(542,729,l),
-(420,267,l),
-(394,159,l),
-(386,159,l),
-(360,267,l),
-(238,729,l),
-(11,729,l),
-(254,0,l)
-);
-}
-);
-width = 780;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (413,0);
 },
 {
@@ -317,6 +183,140 @@ nodes = (
 }
 );
 width = 877;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (337,0);
+},
+{
+name = top;
+pos = (337,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(371,0,l),
+(654,729,l),
+(614,729,l),
+(385,135,l),
+(347,35,l),
+(341,35,l),
+(303,135,l),
+(76,729,l),
+(34,729,l),
+(317,0,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(359,0,l),
+(617,729,l),
+(576,729,l),
+(396,210,l),
+(337,36,l),
+(331,36,l),
+(268,210,l),
+(81,729,l),
+(41,729,l),
+(309,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+4
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+}
+);
+};
+width = 657;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (380,0);
+},
+{
+name = top;
+pos = (380,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(527,0,l),
+(769,729,l),
+(542,729,l),
+(433,336,l),
+(394,193,l),
+(386,193,l),
+(346,337,l),
+(238,729,l),
+(11,729,l),
+(254,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(516,0,l),
+(750,729,l),
+(529,729,l),
+(411,277,l),
+(389,169,l),
+(377,169,l),
+(354,277,l),
+(236,729,l),
+(10,729,l),
+(246,0,l)
+);
+}
+);
+width = 760;
 },
 {
 anchors = (

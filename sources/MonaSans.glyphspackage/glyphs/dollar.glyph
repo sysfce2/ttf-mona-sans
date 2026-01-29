@@ -136,210 +136,6 @@ nodes = (
 width = 397;
 },
 {
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(489,10,o),
-(581,84,o),
-(581,194,cs),
-(581,339,o),
-(478,372,o),
-(343,396,cs),
-(186,425,o),
-(125,447,o),
-(125,545,cs),
-(125,629,o),
-(194,685,o),
-(315,685,cs),
-(442,685,o),
-(513,625,o),
-(517,521,c),
-(557,521,l),
-(554,640,o),
-(473,719,o),
-(319,719,cs),
-(171,719,o),
-(84,647,o),
-(84,540,cs),
-(84,421,o),
-(170,388,o),
-(328,359,cs),
-(483,331,o),
-(541,293,o),
-(541,192,cs),
-(541,92,o),
-(454,44,o),
-(326,44,cs),
-(179,44,o),
-(112,116,o),
-(108,232,c),
-(67,232,l),
-(70,100,o),
-(152,10,o),
-(328,10,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(341,-85,l),
-(341,23,l),
-(308,23,l),
-(308,-85,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(341,699,l),
-(341,814,l),
-(308,814,l),
-(308,699,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = S;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = S;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-place = (
-246,
-48
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-}
-);
-};
-width = 648;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(542,8,o),
-(642,101,o),
-(642,232,cs),
-(642,409,o),
-(514,440,o),
-(402,456,cs),
-(276,475,o),
-(257,481,o),
-(257,521,cs),
-(257,553,o),
-(288,573,o),
-(336,573,cs),
-(374,573,o),
-(417,561,o),
-(420,511,c),
-(622,511,l),
-(622,638,o),
-(508,722,o),
-(340,722,cs),
-(161,722,o),
-(49,637,o),
-(49,495,cs),
-(49,362,o),
-(147,304,o),
-(296,282,cs),
-(425,264,o),
-(433,253,o),
-(433,212,cs),
-(433,177,o),
-(398,160,o),
-(347,160,cs),
-(269,160,o),
-(239,192,o),
-(239,239,c),
-(35,239,l),
-(35,100,o),
-(143,8,o),
-(337,8,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(405,-85,l),
-(405,82,l),
-(273,82,l),
-(273,-85,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(405,632,l),
-(405,814,l),
-(273,814,l),
-(273,632,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = S;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = S;
-};
-width = 677;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -472,6 +268,210 @@ nodes = (
 }
 );
 width = 720;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,10,o),
+(572,84,o),
+(572,194,cs),
+(572,339,o),
+(471,372,o),
+(340,396,cs),
+(185,425,o),
+(126,447,o),
+(126,545,cs),
+(126,629,o),
+(193,685,o),
+(312,685,cs),
+(437,685,o),
+(506,625,o),
+(510,521,c),
+(548,521,l),
+(546,640,o),
+(466,719,o),
+(316,719,cs),
+(170,719,o),
+(85,647,o),
+(85,540,cs),
+(85,421,o),
+(169,388,o),
+(325,359,cs),
+(476,331,o),
+(534,293,o),
+(534,192,cs),
+(534,92,o),
+(448,44,o),
+(323,44,cs),
+(178,44,o),
+(113,116,o),
+(109,232,c),
+(68,232,l),
+(71,100,o),
+(151,10,o),
+(325,10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,-85,l),
+(338,23,l),
+(305,23,l),
+(305,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,699,l),
+(338,814,l),
+(305,814,l),
+(305,699,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = S;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = S;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+246,
+48
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 641;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,8,o),
+(625,101,o),
+(625,232,cs),
+(625,409,o),
+(499,440,o),
+(393,456,cs),
+(269,475,o),
+(253,481,o),
+(253,521,cs),
+(253,553,o),
+(283,573,o),
+(327,573,cs),
+(361,573,o),
+(402,561,o),
+(405,511,c),
+(606,511,l),
+(606,638,o),
+(494,722,o),
+(331,722,cs),
+(156,722,o),
+(48,637,o),
+(48,495,cs),
+(48,362,o),
+(142,304,o),
+(288,282,cs),
+(410,264,o),
+(418,253,o),
+(418,212,cs),
+(418,177,o),
+(385,160,o),
+(338,160,cs),
+(263,160,o),
+(236,192,o),
+(236,239,c),
+(34,239,l),
+(34,100,o),
+(139,8,o),
+(328,8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(395,-85,l),
+(395,82,l),
+(264,82,l),
+(264,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(395,632,l),
+(395,814,l),
+(264,814,l),
+(264,632,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = S;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = S;
+};
+width = 657;
 },
 {
 background = {

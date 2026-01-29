@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = ellipsis.ss01;
-kernLeft = period.ss01;
-kernRight = period.ss01;
+kernLeft = KO_period.ss01;
+kernRight = KO_ellipsis.ss01;
 layers = (
 {
 background = {
@@ -70,64 +70,6 @@ ref = ellipsis;
 }
 );
 };
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-ref = period.ss01;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (186,0);
-ref = period.ss01;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (372,0);
-ref = period.ss01;
-}
-);
-width = 537;
-},
-{
-background = {
-shapes = (
-{
-ref = ellipsis;
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-ref = period.ss01;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (278,0);
-ref = period.ss01;
-},
-{
-alignment = 1;
-anchor = "#exit";
-pos = (556,0);
-ref = period.ss01;
-}
-);
-width = 811;
-},
-{
-background = {
-shapes = (
-{
-ref = ellipsis;
-}
-);
-};
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -177,6 +119,64 @@ ref = period.ss01;
 }
 );
 width = 873;
+},
+{
+background = {
+shapes = (
+{
+ref = ellipsis;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (182,0);
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (364,0);
+ref = period.ss01;
+}
+);
+width = 530;
+},
+{
+background = {
+shapes = (
+{
+ref = ellipsis;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (257,0);
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = "#exit";
+pos = (514,0);
+ref = period.ss01;
+}
+);
+width = 762;
 },
 {
 background = {

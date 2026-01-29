@@ -1,8 +1,7 @@
 {
 color = 6;
 glyphname = icircumflex;
-kernLeft = icircumflex;
-kernRight = icircumflex;
+kernLeft = KO_icircumflex;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -31,32 +30,6 @@ ref = circumflexcomb;
 width = 231;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-60,-155);
-ref = circumflexcomb;
-}
-);
-width = 207;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-97,-134);
-ref = circumflexcomb;
-}
-);
-width = 299;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +54,32 @@ ref = circumflexcomb;
 }
 );
 width = 307;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-59,-155);
+ref = circumflexcomb;
+}
+);
+width = 207;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-88,-134);
+ref = circumflexcomb;
+}
+);
+width = 303;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

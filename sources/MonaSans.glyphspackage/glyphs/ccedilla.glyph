@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = ccedilla;
-kernLeft = e;
-kernRight = c;
+kernLeft = KO_e;
+kernRight = KO_c;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -15,7 +15,7 @@ pos = (27,0);
 ref = cedillacomb;
 }
 );
-width = 313;
+width = 318;
 },
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -29,32 +29,6 @@ ref = cedillacomb;
 }
 );
 width = 439;
-},
-{
-layerId = master01;
-shapes = (
-{
-ref = c;
-},
-{
-pos = (149,0);
-ref = cedillacomb;
-}
-);
-width = 553;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = c;
-},
-{
-pos = (84,0);
-ref = cedillacomb;
-}
-);
-width = 586;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -81,6 +55,32 @@ ref = cedillacomb;
 }
 );
 width = 675;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (150,0);
+ref = cedillacomb;
+}
+);
+width = 551;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (89,0);
+ref = cedillacomb;
+}
+);
+width = 581;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

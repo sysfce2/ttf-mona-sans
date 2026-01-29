@@ -66,116 +66,6 @@ nodes = (
 width = 480;
 },
 {
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(317,162,l),
-(317,365,l),
-(539,365,l),
-(539,397,l),
-(317,397,l),
-(317,600,l),
-(283,600,l),
-(283,397,l),
-(61,397,l),
-(61,365,l),
-(283,365,l),
-(283,162,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(539,0,l),
-(539,32,l),
-(61,32,l),
-(61,0,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-1,
-2
-);
-stem = -2;
-target = (
-1,
-3
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-8
-);
-stem = -2;
-target = (
-0,
-9
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-11
-);
-stem = -2;
-target = (
-0,
-0
-);
-type = Stem;
-}
-);
-};
-width = 600;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-closed = 1;
-nodes = (
-(376,194,l),
-(376,326,l),
-(556,326,l),
-(556,475,l),
-(376,475,l),
-(376,607,l),
-(223,607,l),
-(223,475,l),
-(43,475,l),
-(43,326,l),
-(223,326,l),
-(223,194,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(556,0,l),
-(556,132,l),
-(43,132,l),
-(43,0,l)
-);
-}
-);
-width = 600;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -238,6 +128,116 @@ nodes = (
 }
 );
 width = 720;
+},
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,162,l),
+(314,365,l),
+(532,365,l),
+(532,397,l),
+(314,397,l),
+(314,600,l),
+(280,600,l),
+(280,397,l),
+(62,397,l),
+(62,365,l),
+(280,365,l),
+(280,162,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(532,0,l),
+(532,32,l),
+(62,32,l),
+(62,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+2
+);
+stem = -2;
+target = (
+1,
+3
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 593;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,194,l),
+(366,326,l),
+(540,326,l),
+(540,475,l),
+(366,475,l),
+(366,607,l),
+(215,607,l),
+(215,475,l),
+(42,475,l),
+(42,326,l),
+(215,326,l),
+(215,194,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(540,0,l),
+(540,132,l),
+(42,132,l),
+(42,0,l)
+);
+}
+);
+width = 581;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

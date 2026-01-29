@@ -1,7 +1,6 @@
 {
 color = 6;
 glyphname = itilde;
-kernLeft = itilde;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +29,6 @@ ref = tildecomb;
 width = 231;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-85,-155);
-ref = tildecomb;
-}
-);
-width = 207;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-108,-134);
-ref = tildecomb;
-}
-);
-width = 299;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +53,32 @@ ref = tildecomb;
 }
 );
 width = 307;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-84,-155);
+ref = tildecomb;
+}
+);
+width = 207;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-99,-134);
+ref = tildecomb;
+}
+);
+width = 303;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

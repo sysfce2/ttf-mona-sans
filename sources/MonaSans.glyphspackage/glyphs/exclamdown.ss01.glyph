@@ -27,38 +27,6 @@ ref = exclam.ss01;
 width = 168;
 },
 {
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-angle = 180;
-pos = (229,517);
-ref = exclam.ss01;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
-};
-width = 229;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-angle = 180;
-pos = (293,544);
-ref = exclam.ss01;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
-};
-width = 293;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -81,6 +49,38 @@ ref = exclam.ss01;
 }
 );
 width = 279;
+},
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (230,517);
+ref = exclam.ss01;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
+};
+width = 230;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (288,544);
+ref = exclam.ss01;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
+};
+width = 288;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

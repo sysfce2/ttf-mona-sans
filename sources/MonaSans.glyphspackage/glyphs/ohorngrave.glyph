@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = ohorngrave;
-kernLeft = egrave;
+kernLeft = KO_egrave;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +30,6 @@ ref = gravecomb;
 width = 470;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (161,-155);
-ref = gravecomb;
-}
-);
-width = 589;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (95,-134);
-ref = gravecomb;
-}
-);
-width = 612;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +54,32 @@ ref = gravecomb;
 }
 );
 width = 700;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (160,-155);
+ref = gravecomb;
+}
+);
+width = 582;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (102,-134);
+ref = gravecomb;
+}
+);
+width = 603;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

@@ -63,12 +63,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (74,0);
+pos = (73,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 486;
+width = 480;
 },
 {
 background = {
@@ -131,12 +130,145 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (65,0);
+pos = (64,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 486;
+width = 480;
+},
+{
+background = {
+anchors = (
+{
+name = center;
+pos = (360.5,369.5);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(621,343,l),
+(621,376,l),
+(102,376,l),
+(102,343,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(531,-10,o),
+(647,117,o),
+(647,360,cs),
+(647,604,o),
+(529,729,o),
+(362,729,cs),
+(189,729,o),
+(74,603,o),
+(74,360,cs),
+(74,115,o),
+(194,-10,o),
+(364,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,24,o),
+(114,149,o),
+(114,360,cs),
+(114,572,o),
+(203,695,o),
+(362,695,cs),
+(522,695,o),
+(609,570,o),
+(609,360,cs),
+(609,149,o),
+(519,24,o),
+(363,24,cs)
+);
+}
+);
+};
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+shapes = (
+{
+alignment = 1;
+ref = _zero.tf.base;
+},
+{
+pos = (62,0);
+ref = _zero.tf.slash.ss08;
+}
+);
+width = 720;
+},
+{
+background = {
+anchors = (
+{
+name = center;
+pos = (360,369);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(527,302,l),
+(527,418,l),
+(194,418,l),
+(194,302,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(562,-9,o),
+(697,112,o),
+(697,360,cs),
+(697,581,o),
+(588,729,o),
+(361,729,cs),
+(158,729,o),
+(23,609,o),
+(23,361,cs),
+(23,139,o),
+(133,-9,o),
+(360,-9,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(293,169,o),
+(247,218,o),
+(247,360,cs),
+(247,484,o),
+(281,551,o),
+(360,551,cs),
+(427,551,o),
+(473,502,o),
+(473,360,cs),
+(473,237,o),
+(439,169,o),
+(360,169,cs)
+);
+}
+);
+};
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+alignment = 1;
+ref = _zero.tf.base;
+},
+{
+pos = (154,0);
+ref = _zero.tf.slash.ss08;
+}
+);
+width = 720;
 },
 {
 background = {
@@ -192,7 +324,7 @@ nodes = (
 }
 );
 };
-layerId = master01;
+layerId = m019;
 shapes = (
 {
 alignment = 1;
@@ -201,7 +333,6 @@ ref = _zero.tf.base;
 {
 pos = (35,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
 userData = {
@@ -292,7 +423,7 @@ type = Stem;
 }
 );
 };
-width = 607;
+width = 582;
 },
 {
 background = {
@@ -348,155 +479,18 @@ nodes = (
 }
 );
 };
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+layerId = m020;
 shapes = (
 {
 alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (90,0);
+pos = (88,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 607;
-},
-{
-background = {
-anchors = (
-{
-name = center;
-pos = (360.5,369.5);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(621,343,l),
-(621,376,l),
-(102,376,l),
-(102,343,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(531,-10,o),
-(647,117,o),
-(647,360,cs),
-(647,604,o),
-(529,729,o),
-(362,729,cs),
-(189,729,o),
-(74,603,o),
-(74,360,cs),
-(74,115,o),
-(194,-10,o),
-(364,-10,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(201,24,o),
-(114,149,o),
-(114,360,cs),
-(114,572,o),
-(203,695,o),
-(362,695,cs),
-(522,695,o),
-(609,570,o),
-(609,360,cs),
-(609,149,o),
-(519,24,o),
-(363,24,cs)
-);
-}
-);
-};
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-alignment = 1;
-ref = _zero.tf.base;
-},
-{
-pos = (63,0);
-ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
-}
-);
-width = 728;
-},
-{
-background = {
-anchors = (
-{
-name = center;
-pos = (360,369);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(527,302,l),
-(527,418,l),
-(194,418,l),
-(194,302,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(562,-9,o),
-(697,112,o),
-(697,360,cs),
-(697,581,o),
-(588,729,o),
-(361,729,cs),
-(158,729,o),
-(23,609,o),
-(23,361,cs),
-(23,139,o),
-(133,-9,o),
-(360,-9,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(293,169,o),
-(247,218,o),
-(247,360,cs),
-(247,484,o),
-(281,551,o),
-(360,551,cs),
-(427,551,o),
-(473,502,o),
-(473,360,cs),
-(473,237,o),
-(439,169,o),
-(360,169,cs)
-);
-}
-);
-};
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-alignment = 1;
-ref = _zero.tf.base;
-},
-{
-pos = (156,0);
-ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
-}
-);
-width = 728;
+width = 574;
 },
 {
 background = {
@@ -559,12 +553,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (68,0);
+pos = (67,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 486;
+width = 480;
 },
 {
 background = {
@@ -627,12 +620,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (140,0);
+pos = (138,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 486;
+width = 480;
 },
 {
 background = {
@@ -697,10 +689,9 @@ ref = _zero.tf.base;
 {
 pos = (53,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 607;
+width = 600;
 },
 {
 background = {
@@ -763,12 +754,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (146,0);
+pos = (145,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 607;
+width = 600;
 },
 {
 background = {
@@ -833,10 +823,9 @@ ref = _zero.tf.base;
 {
 pos = (52,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 728;
+width = 720;
 },
 {
 background = {
@@ -899,12 +888,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (183,0);
+pos = (181,0);
 ref = _zero.tf.slash.ss08;
-scale = (1.0115,1.0115);
 }
 );
-width = 728;
+width = 720;
 }
 );
 metricWidth = zero.tf;

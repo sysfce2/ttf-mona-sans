@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = quotedblbase;
-kernRight = quotedblbase;
+kernRight = KO_quotedblbase;
 layers = (
 {
 background = {
@@ -67,66 +67,6 @@ ref = comma;
 }
 );
 };
-layerId = master01;
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (129,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 308;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (254,0);
-ref = comma;
-}
-);
-};
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 1;
-ref = comma;
-},
-{
-alignment = 1;
-pos = (254,0);
-ref = comma;
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
-};
-width = 495;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (129,0);
-ref = comma;
-}
-);
-};
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -166,6 +106,66 @@ ref = comma;
 }
 );
 width = 544;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (129,0);
+ref = comma;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+},
+{
+alignment = 1;
+pos = (127,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 337;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (254,0);
+ref = comma;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+},
+{
+alignment = 1;
+pos = (269,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 558;
 },
 {
 background = {

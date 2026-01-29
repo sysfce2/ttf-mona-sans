@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = guillemetright;
-kernLeft = guillemetright;
-kernRight = guillemetright;
+kernLeft = KO_guillemetright;
+kernRight = KO_guillemetright;
 layers = (
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -29,30 +29,6 @@ ref = guillemetleft;
 width = 325;
 },
 {
-layerId = master01;
-shapes = (
-{
-alignment = 3;
-angle = 180;
-pos = (402,597);
-ref = guillemetleft;
-}
-);
-width = 402;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-alignment = 3;
-angle = 180;
-pos = (597,608);
-ref = guillemetleft;
-}
-);
-width = 597;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -75,6 +51,30 @@ ref = guillemetleft;
 }
 );
 width = 598;
+},
+{
+layerId = m019;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (399,597);
+ref = guillemetleft;
+}
+);
+width = 399;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (578,608);
+ref = guillemetleft;
+}
+);
+width = 578;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

@@ -1,7 +1,8 @@
 {
 color = 6;
 glyphname = abrevedotbelow.ss05;
-kernLeft = a.ss04;
+kernLeft = KO_a.ss05;
+kernRight = KO_aacute.ss05;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -38,40 +39,6 @@ ref = brevecomb;
 width = 471;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = a.ss05;
-},
-{
-pos = (200,0);
-ref = dotbelowcomb.ss01;
-},
-{
-pos = (91,-161);
-ref = brevecomb;
-}
-);
-width = 539;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = a.ss05;
-},
-{
-pos = (163,0);
-ref = dotbelowcomb.ss01;
-},
-{
-pos = (95,-134);
-ref = brevecomb;
-}
-);
-width = 602;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -104,6 +71,40 @@ ref = brevecomb;
 }
 );
 width = 653;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (191,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (84,-161);
+ref = brevecomb;
+}
+);
+width = 523;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (152,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (89,-134);
+ref = brevecomb;
+}
+);
+width = 572;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

@@ -1,7 +1,7 @@
 {
 color = 6;
 glyphname = ohorndotbelow.ss01;
-kernLeft = e;
+kernLeft = KO_e;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -30,32 +30,6 @@ ref = dotbelowcomb.ss01;
 width = 470;
 },
 {
-layerId = master01;
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (236,0);
-ref = dotbelowcomb.ss01;
-}
-);
-width = 589;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = ohorn;
-},
-{
-pos = (168,0);
-ref = dotbelowcomb.ss01;
-}
-);
-width = 612;
-},
-{
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
 shapes = (
 {
@@ -80,6 +54,32 @@ ref = dotbelowcomb.ss01;
 }
 );
 width = 700;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (235,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 582;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (167,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 603;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

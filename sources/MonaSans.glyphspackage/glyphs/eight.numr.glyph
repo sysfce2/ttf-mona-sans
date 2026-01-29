@@ -37,7 +37,41 @@ width = 55;
 width = 271;
 },
 {
-layerId = master01;
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+shapes = (
+{
+pos = (0,333);
+ref = eight.dnom;
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -35;
+width = 55;
+};
+};
+width = 415;
+},
+{
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+pos = (0,354);
+ref = eight.dnom;
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -390;
+width = 54;
+};
+};
+width = 407;
+},
+{
+layerId = m019;
 shapes = (
 {
 pos = (0,332);
@@ -105,10 +139,10 @@ type = Stem;
 }
 );
 };
-width = 391;
+width = 388;
 },
 {
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
+layerId = m020;
 shapes = (
 {
 pos = (0,354);
@@ -124,41 +158,7 @@ width = 54;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = eight.dnom;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = eight.dnom;
 };
-width = 369;
-},
-{
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
-shapes = (
-{
-pos = (0,333);
-ref = eight.dnom;
-}
-);
-userData = {
-RMXScaler = {
-height = 55;
-weight = -35;
-width = 55;
-};
-};
-width = 415;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-pos = (0,354);
-ref = eight.dnom;
-}
-);
-userData = {
-RMXScaler = {
-height = 52;
-weight = -390;
-width = 54;
-};
-};
-width = 407;
+width = 352;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
