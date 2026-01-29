@@ -9,7 +9,7 @@ layerId = m019;
 shapes = (
 {
 alignment = 3;
-pos = (0,685);
+pos = (0,652);
 ref = quotesinglbase;
 }
 );
@@ -24,7 +24,7 @@ layerId = m020;
 shapes = (
 {
 alignment = 3;
-pos = (0,571);
+pos = (0,501);
 ref = quotesinglbase;
 }
 );
