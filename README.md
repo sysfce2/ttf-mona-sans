@@ -22,6 +22,18 @@ If you want to access the whole design space, use `MonaSansVF[wdth,wght,opsz,ita
     url('MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations');
   font-weight: 200 900;
   font-stretch: 75% 125%;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: 'Mona Sans VF';
+  src:
+    url('MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2 supports variations'),
+    url('MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+  font-style: italic;
   font-optical-sizing: auto;
 }
 
@@ -29,6 +41,8 @@ html {
   font-family: 'Mona Sans VF';
 }
 ```
+
+> **Note:** Chromium-based browsers require two separate `@font-face` declarations (one with `font-style: normal`, one with `font-style: italic`) for the italic axis to work correctly.
 
 Mona Sans includes an optical size axis (`opsz`) that automatically adjusts the font's design for optimal readability at different sizes. The optical size range spans from 1 to 100, where smaller values (1-20) are optimized for body text with improved readability, while larger values (21-100) are designed for display use with refined details and tighter spacing. When `font-optical-sizing: auto` is set, browsers will automatically select the appropriate optical size based on the font size, or you can manually control it using `font-variation-settings: "opsz" [value]`. That looks like this:
 
@@ -49,6 +63,8 @@ To reduce [CLS](https://web.dev/cls/), you can preload the font in the `head` of
 ```
 
 Or you can use one of the other variable font files, which cover small portions of the design space. For example, if you're only using the regular width weights and the italic styles, you can use the `MonaSansVF[wght,opsz,ital]` file instead.
+
+> **Note:** Variable font files with the italic axis (`ital`) require two separate `@font-face` declarations for Chromium compatibility.
 
 ## Stylistic sets
 
