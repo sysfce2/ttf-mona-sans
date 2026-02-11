@@ -48,8 +48,6 @@ To reduce [CLS](https://web.dev/cls/), you can preload the font in the `head` of
 <link rel="preload" href="MonaSansVF[wdth,wght,opsz,ital].woff2" as="font" type="font/woff2" crossorigin>
 ```
 
-Or you can use one of the other variable font files, which cover small portions of the design space. For example, if you're only using the regular width weights and the italic styles, you can use the `MonaSansVF[wght,opsz,ital]` file instead.
-
 ## Stylistic sets
 
 Mona Sans has ten stylistic sets:
@@ -92,7 +90,7 @@ Mona Sans comes with seven ligatures:
 
 ## Mona Sans Styles
 
-With the newly added monospace and display styles, Mona Sans’ design space now spans 128 instances. Below is a map for the whole space. Style entries with a hyphen are elidable, meaning they are the default and have no name.
+With the newly added monospace, display, and display italic styles, Mona Sans' design space now spans 168 instances. Below is a map for the whole space. Style entries with a hyphen are elidable, meaning they are the default and have no name.
 
 | Axes | Mapping | Style name |
 | --- | --- | --- |
@@ -113,6 +111,7 @@ With the newly added monospace and display styles, Mona Sans’ design space now
 | - | 1 | Italic |
 | Optical Size (opsz) | 20 | - |
 | - | 72 | Display |
+
 
 ### Mona Sans Monospace Styles
 
