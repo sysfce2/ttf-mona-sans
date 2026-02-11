@@ -42,7 +42,7 @@ html {
 }
 ```
 
-> **Note:** For the italic axis to work correctly in Chromium-based browsers (Chrome, Edge, Opera), you need two separate `@font-face` declarations as shown above—one with `font-style: normal` and one with `font-style: italic`. Firefox and Safari will work with either approach.
+> **Note:** Chromium-based browsers require two separate `@font-face` declarations (one with `font-style: normal`, one with `font-style: italic`) for the italic axis to work correctly.
 
 Mona Sans includes an optical size axis (`opsz`) that automatically adjusts the font's design for optimal readability at different sizes. The optical size range spans from 1 to 100, where smaller values (1-20) are optimized for body text with improved readability, while larger values (21-100) are designed for display use with refined details and tighter spacing. When `font-optical-sizing: auto` is set, browsers will automatically select the appropriate optical size based on the font size, or you can manually control it using `font-variation-settings: "opsz" [value]`. That looks like this:
 
@@ -64,7 +64,7 @@ To reduce [CLS](https://web.dev/cls/), you can preload the font in the `head` of
 
 Or you can use one of the other variable font files, which cover small portions of the design space. For example, if you're only using the regular width weights and the italic styles, you can use the `MonaSansVF[wght,opsz,ital]` file instead.
 
-> **Note:** When using any variable font file that includes the italic axis (`ital`), remember to use two separate `@font-face` declarations (one with `font-style: normal` and one with `font-style: italic`) for compatibility with Chromium-based browsers.
+> **Note:** Variable font files with the italic axis (`ital`) require two separate `@font-face` declarations for Chromium compatibility.
 
 ## Stylistic sets
 
