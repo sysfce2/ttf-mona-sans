@@ -10,7 +10,7 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (619,626);
+pos = (618,626);
 ref = parenleft;
 }
 );
@@ -32,7 +32,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -40,11 +40,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (619,626);
+pos = (618,626);
 ref = parenleft;
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = "=|parenleft";

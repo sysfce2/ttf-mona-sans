@@ -135,10 +135,9 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 }
 );
-metricLeft = H;
 unicode = 70;
 userData = {
 KernOnName = F;

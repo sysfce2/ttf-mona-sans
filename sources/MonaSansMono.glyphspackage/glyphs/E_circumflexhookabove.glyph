@@ -9,7 +9,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (47,57);
+pos = (76,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (46,51);
+pos = (56,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );

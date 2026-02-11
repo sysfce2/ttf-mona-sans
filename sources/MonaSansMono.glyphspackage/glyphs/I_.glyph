@@ -151,10 +151,8 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 }
 );
-metricLeft = H;
-metricRight = H;
 unicode = 73;
 }

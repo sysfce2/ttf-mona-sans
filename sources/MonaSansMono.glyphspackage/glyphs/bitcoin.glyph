@@ -316,7 +316,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = B;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = B;
 };
-width = 619;
+width = 618;
 }
 );
 unicode = 8383;

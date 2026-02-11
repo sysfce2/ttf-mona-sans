@@ -22,11 +22,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (-3,-23);
+pos = (-4,-23);
 ref = strokeshortcomb.case.T;
 }
 );
-width = 619;
+width = 618;
 }
 );
 unicode = 358;

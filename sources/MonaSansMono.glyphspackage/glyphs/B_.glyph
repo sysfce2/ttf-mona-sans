@@ -266,7 +266,7 @@ nodes = (
 userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 };
-width = 619;
+width = 618;
 }
 );
 metricLeft = H;

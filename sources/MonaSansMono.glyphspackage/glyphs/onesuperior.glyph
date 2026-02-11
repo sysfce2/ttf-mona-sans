@@ -64,7 +64,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -83,7 +83,7 @@ width = 60;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = oneinferior;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = oneinferior;
 };
-width = 619;
+width = 618;
 }
 );
 unicode = 185;

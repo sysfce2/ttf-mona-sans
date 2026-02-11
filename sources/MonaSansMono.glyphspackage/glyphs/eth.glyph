@@ -113,7 +113,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 },
 {
 background = {
@@ -225,7 +225,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = o;

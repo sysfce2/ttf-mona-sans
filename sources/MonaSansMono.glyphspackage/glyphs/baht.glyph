@@ -184,7 +184,7 @@ pos = (-15,0);
 ref = _baht.bar;
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = B;

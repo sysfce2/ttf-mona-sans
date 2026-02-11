@@ -10,11 +10,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (619,597);
+pos = (618,598);
 ref = guilsinglleft;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;

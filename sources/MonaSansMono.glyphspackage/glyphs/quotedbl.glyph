@@ -20,16 +20,17 @@ ref = quotesingle;
 layerId = m019;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-80,0);
 ref = quotesingle;
 },
 {
-alignment = 1;
-pos = (161,0);
+alignment = -1;
+pos = (81,0);
 ref = quotesingle;
 }
 );
-width = 779;
+width = 618;
 },
 {
 background = {
@@ -47,16 +48,17 @@ ref = quotesingle;
 layerId = m020;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-124,0);
 ref = quotesingle;
 },
 {
-alignment = 1;
-pos = (247,0);
+alignment = -1;
+pos = (123,0);
 ref = quotesingle;
 }
 );
-width = 865;
+width = 618;
 }
 );
 unicode = 34;

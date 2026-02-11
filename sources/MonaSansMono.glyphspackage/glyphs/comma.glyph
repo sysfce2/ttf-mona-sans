@@ -70,7 +70,7 @@ nodes = (
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
 };
-width = 619;
+width = 618;
 },
 {
 anchors = (

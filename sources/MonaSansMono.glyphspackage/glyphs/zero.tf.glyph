@@ -1,5 +1,6 @@
 {
 color = 6;
+export = 0;
 glyphname = zero.tf;
 layers = (
 {
@@ -60,7 +61,7 @@ layerId = m019;
 shapes = (
 {
 alignment = 1;
-ref = _zero.tf.base;
+ref = zero.ss10;
 },
 {
 ref = _zero.tf.slash;
@@ -186,7 +187,7 @@ layerId = m020;
 shapes = (
 {
 alignment = 1;
-ref = _zero.tf.base;
+ref = zero.ss10;
 },
 {
 ref = _zero.tf.slash;

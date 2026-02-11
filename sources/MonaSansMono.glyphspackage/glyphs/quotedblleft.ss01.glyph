@@ -10,11 +10,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (758,588);
+pos = (618,563);
 ref = quotedblbase.ss01;
 }
 );
-width = 758;
+width = 618;
 },
 {
 layerId = m020;
@@ -22,11 +22,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (878,552);
+pos = (618,516);
 ref = quotedblbase.ss01;
 }
 );
-width = 878;
+width = 618;
 }
 );
 metricLeft = "=|comma.ss01";

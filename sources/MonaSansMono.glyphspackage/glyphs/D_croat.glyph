@@ -10,7 +10,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;

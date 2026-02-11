@@ -9,7 +9,7 @@ pos = (426,-250);
 },
 {
 name = top;
-pos = (382,517);
+pos = (379,517);
 }
 );
 layerId = m019;
@@ -107,17 +107,17 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (359,-250);
+pos = (369,-250);
 },
 {
 name = top;
-pos = (359,544);
+pos = (369,544);
 }
 );
 layerId = m020;
@@ -125,27 +125,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(280,-167,ls),
-(415,-167,o),
-(465,-97,o),
-(465,25,cs),
-(465,544,l),
-(274,544,l),
-(274,21,ls),
-(274,-19,o),
-(259,-34,o),
-(223,-34,cs),
-(74,-34,l),
-(74,-167,l)
+(290,-167,ls),
+(425,-167,o),
+(475,-97,o),
+(475,25,cs),
+(475,544,l),
+(284,544,l),
+(284,21,ls),
+(284,-19,o),
+(269,-34,o),
+(233,-34,cs),
+(84,-34,l),
+(84,-167,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(291,401,l),
-(291,544,l),
-(75,544,l),
-(75,401,l)
+(301,401,l),
+(301,544,l),
+(85,544,l),
+(85,401,l)
 );
 }
 );
@@ -153,10 +153,8 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = j;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = j;
 };
-width = 619;
+width = 618;
 }
 );
-metricLeft = "=l@100";
-metricRight = l;
 unicode = 567;
 }

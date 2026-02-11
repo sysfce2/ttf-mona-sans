@@ -10,7 +10,7 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (618,588);
+pos = (618,562);
 ref = comma.ss01;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (618,552);
+pos = (618,492);
 ref = comma.ss01;
 }
 );

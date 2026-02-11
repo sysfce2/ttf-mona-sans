@@ -113,8 +113,9 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (89,189);
+pos = (109,205);
 ref = eightinferior;
+scale = (0.9091,0.9091);
 }
 );
 userData = {
@@ -237,8 +238,9 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (89,191);
+pos = (109,207);
 ref = eightinferior;
+scale = (0.9091,0.9091);
 }
 );
 userData = {

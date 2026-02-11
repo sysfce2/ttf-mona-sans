@@ -8,32 +8,33 @@ layerId = m019;
 shapes = (
 {
 alignment = -1;
-pos = (-14,0);
+pos = (-3,0);
 ref = u;
+scale = (0.98,1);
 },
 {
-pos = (210,8);
+pos = (212,8);
 ref = horncomb;
 }
 );
-width = 600;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 alignment = -1;
-pos = (-15,0);
+pos = (-8,0);
 ref = u;
+scale = (0.98,1);
 },
 {
-pos = (204,-46);
+pos = (203,-46);
 ref = horncomb;
 }
 );
-width = 635;
+width = 618;
 }
 );
-metricLeft = u;
 unicode = 432;
 }

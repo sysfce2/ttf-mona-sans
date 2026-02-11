@@ -238,7 +238,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 619;
+width = 618;
 }
 );
 metricLeft = O;

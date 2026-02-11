@@ -19,16 +19,17 @@ ref = comma.ss01;
 layerId = m019;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-82,0);
 ref = comma.ss01;
 },
 {
-alignment = 1;
-pos = (140,0);
+alignment = -1;
+pos = (88,0);
 ref = comma.ss01;
 }
 );
-width = 758;
+width = 618;
 },
 {
 background = {
@@ -46,18 +47,19 @@ ref = comma.ss01;
 layerId = m020;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (-107,0);
 ref = comma.ss01;
+scale = (0.9,0.9);
 },
 {
-alignment = 1;
-pos = (260,0);
+alignment = -1;
+pos = (169,0);
 ref = comma.ss01;
+scale = (0.9,0.9);
 }
 );
-width = 878;
+width = 618;
 }
 );
-metricLeft = comma.ss01;
-metricRight = comma.ss01;
 }

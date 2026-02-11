@@ -9,7 +9,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (11,57);
+pos = (40,57);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (0,51);
+pos = (10,51);
 ref = circumflexcomb_tildecomb;
 }
 );
