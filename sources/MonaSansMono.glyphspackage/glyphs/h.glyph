@@ -113,7 +113,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 anchors = (
@@ -196,7 +196,5 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
 width = 618;
 }
 );
-metricLeft = l;
-metricRight = n;
 unicode = 104;
 }

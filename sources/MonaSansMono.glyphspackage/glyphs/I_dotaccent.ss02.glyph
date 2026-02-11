@@ -24,11 +24,11 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (-6,51);
+pos = (-7,51);
 ref = dotaccentcomb;
 }
 );
-width = 619;
+width = 618;
 }
 );
 }

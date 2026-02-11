@@ -15,7 +15,7 @@ ref = strokeshortcomb.case;
 scale = (0.8,1);
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;

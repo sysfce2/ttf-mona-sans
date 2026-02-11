@@ -8,20 +8,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(425,-63,l),
-(327,26,o),
-(260,188,o),
-(260,365,cs),
-(260,531,o),
-(320,698,o),
-(425,793,c),
-(388,793,l),
-(283,697,o),
-(223,532,o),
-(223,365,cs),
-(223,198,o),
-(283,33,o),
-(388,-63,c)
+(424,-63,l),
+(326,26,o),
+(259,188,o),
+(259,365,cs),
+(259,531,o),
+(319,698,o),
+(424,793,c),
+(387,793,l),
+(282,697,o),
+(222,532,o),
+(222,365,cs),
+(222,198,o),
+(282,33,o),
+(387,-63,c)
 );
 }
 );
@@ -45,7 +45,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -74,7 +74,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenleft;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenleft;
 };
-width = 619;
+width = 618;
 }
 );
 userData = {

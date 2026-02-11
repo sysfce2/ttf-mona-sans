@@ -9,22 +9,22 @@ layerId = m019;
 shapes = (
 {
 alignment = 3;
-pos = (0,668);
+pos = (0,653);
 ref = quotedblbase;
 }
 );
-width = 808;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 alignment = 3;
-pos = (0,571);
+pos = (0,522);
 ref = quotedblbase;
 }
 );
-width = 942;
+width = 618;
 }
 );
 metricLeft = comma;

@@ -28,7 +28,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 },
 {
 anchors = (
@@ -60,7 +60,6 @@ nodes = (
 width = 618;
 }
 );
-metricRight = "=|";
 userData = {
 KernOnName = periodcentered.loclCAT;
 };

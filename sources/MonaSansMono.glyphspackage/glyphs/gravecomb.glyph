@@ -20,7 +20,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 },
 {
 anchors = (
@@ -41,11 +41,9 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
 unicode = 768;
 userData = {
 KernOnSpecialSpacing = {

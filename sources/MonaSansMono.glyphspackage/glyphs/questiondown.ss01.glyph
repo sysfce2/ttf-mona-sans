@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (619,517);
+pos = (618,517);
 ref = question.ss01;
 }
 );
@@ -102,7 +102,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;

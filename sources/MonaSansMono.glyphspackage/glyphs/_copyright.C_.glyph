@@ -198,7 +198,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 anchors = (
@@ -310,7 +310,7 @@ nodes = (
 );
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = "=40";

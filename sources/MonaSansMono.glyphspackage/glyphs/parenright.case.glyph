@@ -8,7 +8,7 @@ layerId = m019;
 shapes = (
 {
 angle = 180;
-pos = (619,729);
+pos = (618,729);
 ref = parenleft.case;
 }
 );
@@ -32,14 +32,14 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 angle = 180;
-pos = (619,729);
+pos = (618,729);
 ref = parenleft.case;
 }
 );
@@ -47,7 +47,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenright;
 };
-width = 619;
+width = 618;
 }
 );
 metricLeft = parenright;

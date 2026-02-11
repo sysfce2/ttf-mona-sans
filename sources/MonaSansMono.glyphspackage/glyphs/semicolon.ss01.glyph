@@ -13,7 +13,7 @@ ref = comma.ss01;
 {
 alignment = 1;
 anchor = top;
-pos = (-1,456);
+pos = (-1,430);
 ref = period.ss01;
 }
 );
@@ -29,7 +29,7 @@ ref = comma.ss01;
 {
 alignment = 1;
 anchor = top;
-pos = (-1,380);
+pos = (0,306);
 ref = period.ss01;
 }
 );

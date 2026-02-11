@@ -13,11 +13,11 @@ ref = period.ss01;
 {
 alignment = 1;
 anchor = top;
-pos = (0,456);
+pos = (0,430);
 ref = period.ss01;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -29,11 +29,11 @@ ref = period.ss01;
 {
 alignment = 1;
 anchor = top;
-pos = (0,380);
+pos = (0,306);
 ref = period.ss01;
 }
 );
-width = 619;
+width = 618;
 }
 );
 metricLeft = period;

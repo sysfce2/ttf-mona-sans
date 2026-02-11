@@ -10,11 +10,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (21,-155);
+pos = (26,-155);
 ref = acutecomb;
 }
 );
-width = 600;
+width = 618;
 },
 {
 layerId = m020;
@@ -23,11 +23,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (29,-134);
+pos = (30,-134);
 ref = acutecomb;
 }
 );
-width = 635;
+width = 618;
 }
 );
 unicode = 7913;

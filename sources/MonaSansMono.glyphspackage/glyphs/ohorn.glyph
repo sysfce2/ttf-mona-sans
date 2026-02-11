@@ -15,24 +15,24 @@ pos = (152,-2);
 ref = horncomb;
 }
 );
-width = 604;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 alignment = -1;
-pos = (-2,0);
 ref = o;
 },
 {
-pos = (198,-66);
+pos = (200,-66);
 ref = horncomb;
 }
 );
-width = 613;
+width = 618;
 }
 );
 metricLeft = o;
+metricWidth = o;
 unicode = 417;
 }

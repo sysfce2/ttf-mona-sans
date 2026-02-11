@@ -9,7 +9,7 @@ layerId = m019;
 shapes = (
 {
 alignment = 3;
-pos = (0,672);
+pos = (0,649);
 ref = comma.ss01;
 }
 );
@@ -20,7 +20,7 @@ layerId = m020;
 shapes = (
 {
 alignment = 3;
-pos = (0,567);
+pos = (0,511);
 ref = comma.ss01;
 }
 );

@@ -9,11 +9,11 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (150,57);
+pos = (149,57);
 ref = acutecomb;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -22,11 +22,11 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (129,51);
+pos = (112,51);
 ref = acutecomb;
 }
 );
-width = 619;
+width = 618;
 }
 );
 }

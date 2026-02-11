@@ -9,7 +9,7 @@ layerId = m019;
 shapes = (
 {
 alignment = 3;
-pos = (0,685);
+pos = (0,652);
 ref = quotesinglbase;
 }
 );
@@ -17,14 +17,14 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblright;
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
 alignment = 3;
-pos = (0,571);
+pos = (0,501);
 ref = quotesinglbase;
 }
 );

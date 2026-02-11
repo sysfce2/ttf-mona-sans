@@ -14,7 +14,7 @@ pos = (200,27);
 ref = periodcentered.loclCAT;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;

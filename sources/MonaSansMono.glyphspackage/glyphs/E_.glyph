@@ -15,11 +15,11 @@ pos = (543,0);
 },
 {
 name = top;
-pos = (312,729);
+pos = (341,729);
 },
 {
 name = topleft;
-pos = (51,729);
+pos = (71,729);
 }
 );
 layerId = m019;
@@ -124,7 +124,7 @@ pos = (561,0);
 },
 {
 name = top;
-pos = (309,729);
+pos = (319,729);
 },
 {
 name = topleft;

@@ -8,27 +8,19 @@ layers = (
 layerId = m019;
 shapes = (
 {
-ref = I.ss02;
-},
-{
-pos = (618,0);
-ref = J;
+ref = IJ;
 }
 );
-width = 1236;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
-ref = I.ss02;
-},
-{
-pos = (619,0);
-ref = J;
+ref = IJ;
 }
 );
-width = 1238;
+width = 618;
 }
 );
 }

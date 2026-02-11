@@ -91,7 +91,7 @@ width = 60;
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = eightinferior;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = eightinferior;
 };
-width = 619;
+width = 618;
 }
 );
 unicode = 8312;

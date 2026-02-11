@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _center;
-pos = (227,174);
+pos = (227,183);
 }
 );
 layerId = m019;
@@ -94,13 +94,13 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 anchors = (
 {
 name = _center;
-pos = (224,174);
+pos = (224,186);
 }
 );
 layerId = m020;

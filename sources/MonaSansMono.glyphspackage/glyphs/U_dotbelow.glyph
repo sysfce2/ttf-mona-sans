@@ -11,11 +11,10 @@ shapes = (
 ref = U;
 },
 {
-pos = (1,0);
 ref = dotbelowcomb;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -24,11 +23,10 @@ shapes = (
 ref = U;
 },
 {
-pos = (1,0);
 ref = dotbelowcomb;
 }
 );
-width = 619;
+width = 618;
 }
 );
 unicode = 7908;

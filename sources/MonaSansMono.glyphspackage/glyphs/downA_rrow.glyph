@@ -5,18 +5,10 @@ layers = (
 layerId = m019;
 shapes = (
 {
-closed = 1;
-nodes = (
-(302,151,l),
-(137,273,l),
-(137,231,l),
-(320,95,l),
-(503,231,l),
-(503,273,l),
-(338,151,l),
-(338,634,l),
-(302,634,l)
-);
+alignment = 1;
+angle = 180;
+pos = (618,729);
+ref = upArrow;
 }
 );
 userData = {
@@ -43,27 +35,19 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
 shapes = (
 {
-closed = 1;
-nodes = (
-(226,293,l),
-(78,389,l),
-(78,223,l),
-(308,74,l),
-(538,223,l),
-(538,389,l),
-(390,293,l),
-(390,655,l),
-(226,655,l)
-);
+alignment = 1;
+angle = 180;
+pos = (618,729);
+ref = upArrow;
 }
 );
-width = 619;
+width = 618;
 }
 );
 unicode = 8595;

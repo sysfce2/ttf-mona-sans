@@ -13,7 +13,7 @@ ref = ohorn;
 ref = dotbelowcomb.ss01;
 }
 );
-width = 604;
+width = 618;
 },
 {
 layerId = m020;
@@ -22,11 +22,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (-3,0);
+pos = (-1,0);
 ref = dotbelowcomb.ss01;
 }
 );
-width = 613;
+width = 618;
 }
 );
 }

@@ -10,11 +10,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (73,-155);
+pos = (70,-155);
 ref = circumflexcomb;
 }
 );
-width = 619;
+width = 618;
 },
 {
 layerId = m020;
@@ -23,11 +23,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (50,-134);
+pos = (60,-134);
 ref = circumflexcomb;
 }
 );
-width = 619;
+width = 618;
 }
 );
 unicode = 309;

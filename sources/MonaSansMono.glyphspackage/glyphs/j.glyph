@@ -45,7 +45,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (72,-155);
+pos = (69,-155);
 ref = dotaccent;
 }
 );
@@ -112,7 +112,7 @@ type = Stem;
 }
 );
 };
-width = 619;
+width = 618;
 },
 {
 background = {
@@ -155,14 +155,14 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (43,-134);
+pos = (53,-134);
 ref = dotaccent;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = i;
 };
-width = 619;
+width = 618;
 }
 );
 metricRight = i;
