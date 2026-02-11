@@ -9,25 +9,25 @@ if [ ! -f "sources/config.yaml" ]; then
   exit 1
 fi
 
-echo "Starting Mona Sans Google Fonts build process..."
+# echo "Starting Mona Sans Google Fonts build process..."
 
 
-# Check for required tools
-command -v gftools >/dev/null 2>&1 || { echo "Error: gftools is required but not installed. Aborting."; exit 1; }
-command -v ttfautohint >/dev/null 2>&1 || { echo "Warning: ttfautohint not found. Install for best hinting results."; }
+# # Check for required tools
+# command -v gftools >/dev/null 2>&1 || { echo "Error: gftools is required but not installed. Aborting."; exit 1; }
+# command -v ttfautohint >/dev/null 2>&1 || { echo "Warning: ttfautohint not found. Install for best hinting results."; }
 
-# build googlefonts
-gftools builder sources/config.yaml
+# # build googlefonts
+# gftools builder sources/config.yaml
 
-# clean up build artifacts
-rm -rf sources/instance_ufos
-rm sources/.ninja_log
-rm sources/build.ninja
+# # clean up build artifacts
+# rm -rf sources/instance_ufos
+# rm sources/.ninja_log
+# rm sources/build.ninja
 
-# remove buggy .woff2 that gftools builder creates
-rm -f googlefonts/MonaSans[ital,wdth,wght].woff2
+# # remove buggy .woff2 that gftools builder creates
+# rm -f googlefonts/MonaSans[ital,wdth,wght].woff2
 
-echo "Google's Font files available in the 'googlefonts/' directory"
+# echo "Google's Font files available in the 'googlefonts/' directory"
 
 
 echo "Organizing font files..."
